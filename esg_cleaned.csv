@@ -1,0 +1,723 @@
+Ticker,Company,Exchange,Industry,Env_Grade,Env_Level,Social_Grade,Social_Level,Gov_Grade,Gov_Level,Env_Score,Social_Score,Gov_Score,Total_Score,Date,Total_Grade,Total_Level,ESG_Category
+dis,Walt Disney Co,"NEW YORK STOCK EXCHANGE, INC.",Media,A,High,BB,Medium,BB,Medium,510,316,321,1147,2022-04-19,BBB,High, Leader
+gm,General Motors Co,"NEW YORK STOCK EXCHANGE, INC.",Automobiles,A,High,BB,Medium,B,Medium,510,303,255,1068,2022-04-17,BBB,High, Average
+gww,WW Grainger Inc,"NEW YORK STOCK EXCHANGE, INC.",Trading Companies and Distributors,B,Medium,BB,Medium,B,Medium,255,385,240,880,2022-04-19,BB,Medium, Average
+mhk,Mohawk Industries Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,B,Medium,BB,Medium,570,298,303,1171,2022-04-18,BBB,High, Leader
+lyv,Live Nation Entertainment Inc,"NEW YORK STOCK EXCHANGE, INC.",Media,BBB,High,BB,Medium,B,Medium,492,310,250,1052,2022-04-18,BBB,High, Average
+lvs,Las Vegas Sands Corp,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,547,318,313,1178,2022-04-18,BBB,High, Leader
+clx,Clorox Co,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BB,Medium,BB,Medium,560,350,345,1255,2022-04-16,A,High, Leader
+aacg,ATA Creativity Global,NASDAQ NMS - GLOBAL MARKET,Diversified Consumer Services,B,Medium,B,Medium,B,Medium,203,200,205,608,2022-07-01,B,Medium,Laggard
+aal,American Airlines Group Inc,NASDAQ NMS - GLOBAL MARKET,Airlines,B,Medium,B,Medium,B,Medium,270,211,265,746,2022-04-16,B,Medium,Laggard
+aame,Atlantic American Corp,NASDAQ NMS - GLOBAL MARKET,Insurance,B,Medium,B,Medium,BB,Medium,220,221,300,741,2022-04-16,B,Medium,Laggard
+aaoi,Applied Optoelectronics Inc,NASDAQ NMS - GLOBAL MARKET,Communications,BB,Medium,B,Medium,B,Medium,311,256,218,785,2022-04-16,BB,Medium,Laggard
+aaon,Aaon Inc,NASDAQ NMS - GLOBAL MARKET,Building,A,High,BB,Medium,B,Medium,500,300,223,1023,2022-04-16,BBB,High, Average
+aapl,Apple Inc,NASDAQ NMS - GLOBAL MARKET,Technology,BB,Medium,B,Medium,B,Medium,355,281,255,891,2022-04-16,BB,Medium, Average
+aatc,Autoscope Technologies Corp,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,BBB,High,B,Medium,B,Medium,410,286,240,936,2022-06-11,BBB,High, Average
+aaww,Atlas Air Worldwide Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,A,High,B,Medium,B,Medium,520,243,237,1000,2022-04-16,BBB,High, Average
+aaci,Armada Acquisition Corp I,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,B,Medium,205,200,200,605,2022-06-20,B,Medium,Laggard
+aadi,Aadi Bioscience Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,200,201,203,604,2022-06-11,B,Medium,Laggard
+abeo,Abeona Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,BB,Medium,BB,Medium,205,306,310,821,2022-04-16,BB,Medium, Average
+abnb,Airbnb Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,A,High,A,High,BBB,High,505,570,400,1475,2022-06-10,A,High, Leader
+abio,ARCA Biopharma Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,200,222,290,712,2022-04-16,B,Medium,Laggard
+abmd,ABIOMED Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,A,High,BB,Medium,BB,Medium,500,324,305,1129,2022-04-16,BBB,High, Leader
+abos,Acumen Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,205,201,200,606,2022-06-11,B,Medium,Laggard
+absi,Absci Corp,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,B,Medium,B,Medium,B,Medium,205,224,230,659,2022-06-11,B,Medium,Laggard
+abtx,Allegiance Bancshares Inc,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,BB,Medium,BB,Medium,298,300,300,898,2022-04-16,BB,Medium, Average
+abus,Arbutus Biopharma Corp,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,203,204,338,745,2022-04-16,B,Medium,Laggard
+abvc,ABVC Biopharma Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,220,212,205,637,2022-06-11,B,Medium,Laggard
+acad,ACADIA Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,230,230,305,765,2022-04-16,BB,Medium,Laggard
+acac,Acri Capital Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,BB,Medium,200,205,300,705,2022-06-10,B,Medium,Laggard
+accd,Accolade Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,255,254,235,744,2022-06-10,B,Medium,Laggard
+acet,Adicet Bio Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,215,211,305,731,2022-04-16,B,Medium,Laggard
+abcl,Abcellera Biologics Inc,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,540,354,345,1239,2022-06-10,A,High, Leader
+abcb,Ameris Bancorp,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,BB,Medium,B,Medium,290,300,250,840,2022-04-16,BB,Medium, Average
+acev,ACE Convergence Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,B,Medium,225,211,215,651,2022-06-10,B,Medium,Laggard
+achl,Achilles Therapeutics PLC,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,230,288,285,803,2022-06-10,BB,Medium, Average
+achc,Acadia Healthcare Company Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,BB,Medium,B,Medium,B,Medium,330,231,220,781,2022-04-16,BB,Medium,Laggard
+aciw,ACI Worldwide Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,500,327,300,1127,2022-04-16,BBB,High, Leader
+acls,Axcelis Technologies Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,B,Medium,515,306,260,1081,2022-04-16,BBB,High, Average
+aciu,AC Immune SA,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,250,296,305,851,2022-04-16,BB,Medium, Average
+achv,Achieve Life Sciences Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,215,222,305,742,2022-06-10,B,Medium,Laggard
+acmr,ACM Research Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,BBB,High,B,Medium,BB,Medium,410,232,325,967,2022-06-10,BBB,High, Average
+acor,Acorda Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,BB,Medium,BB,Medium,230,307,310,847,2022-04-16,BB,Medium, Average
+acnb,ACNB Corp,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,B,Medium,B,Medium,220,219,215,654,2022-04-16,B,Medium,Laggard
+acrs,Aclaris Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,230,207,220,657,2022-04-16,B,Medium,Laggard
+acrx,AcelRx Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,200,237,300,737,2022-04-16,B,Medium,Laggard
+act,Enact Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,A,High,BB,Medium,BB,Medium,540,328,315,1183,2022-04-20,BBB,High, Leader
+actg,Acacia Research Corp,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,B,Medium,B,Medium,200,200,275,675,2022-04-16,B,Medium,Laggard
+acva,ACV Auctions Inc,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,B,Medium,B,Medium,BB,Medium,235,262,315,812,2022-06-10,BB,Medium, Average
+adag,Adagene Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,BB,Medium,BB,Medium,295,301,305,901,2022-06-10,BBB,High, Average
+acxp,Acurx Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,BB,Medium,BB,Medium,235,301,305,841,2022-06-11,BB,Medium, Average
+adbe,Adobe Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,B,Medium,B,Medium,200,221,200,621,2022-04-16,B,Medium,Laggard
+adap,Adaptimmune Therapeutics PLC,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,B,Medium,BB,Medium,365,283,305,953,2022-04-16,BBB,High, Average
+adma,ADMA Biologics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,240,264,320,824,2022-04-16,BB,Medium, Average
+ades,Advanced Emissions Solutions Inc,NASDAQ NMS - GLOBAL MARKET,Chemicals,B,Medium,B,Medium,BB,Medium,205,201,300,706,2022-04-16,B,Medium,Laggard
+adi,Analog Devices Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,BB,Medium,BB,Medium,BB,Medium,350,318,300,968,2022-04-16,BBB,High, Average
+adil,Adial Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,200,203,300,703,2022-06-10,B,Medium,Laggard
+admp,Adamis Pharmaceuticals Corp,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,285,204,215,704,2022-04-16,B,Medium,Laggard
+acer,Acer Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,223,291,310,824,2022-06-10,BB,Medium, Average
+adoc,Edoc Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,BB,Medium,BB,Medium,215,301,300,816,2022-04-16,BB,Medium, Average
+adus,Addus Homecare Corp,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,210,215,218,643,2022-04-16,B,Medium,Laggard
+acgl,Arch Capital Group Ltd,NASDAQ NMS - GLOBAL MARKET,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+adpt,Adaptive Biotechnologies Corp,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,B,Medium,BB,Medium,B,Medium,260,348,260,868,2022-04-16,BB,Medium, Average
+adsk,Autodesk Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,555,304,310,1169,2022-04-16,BBB,High, Leader
+adp,Automatic Data Processing Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-07-25,BBB,High, Average
+adtx,Aditxt Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,210,224,305,739,2022-06-10,B,Medium,Laggard
+adv,Advantage Solutions Inc,NASDAQ NMS - GLOBAL MARKET,Media,A,High,B,Medium,BB,Medium,515,269,328,1112,2022-04-20,BBB,High, Leader
+advm,Adverum Biotechnologies Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,BB,Medium,B,Medium,262,321,235,818,2022-04-16,BB,Medium, Average
+aehr,Aehr Test Systems,NASDAQ NMS - GLOBAL MARKET,Semiconductors,B,Medium,B,Medium,BB,Medium,290,262,300,852,2022-04-16,BB,Medium, Average
+aehl,Antelope Enterprise Holdings Ltd,NASDAQ NMS - GLOBAL MARKET,Building,B,Medium,B,Medium,BB,Medium,238,237,325,800,2022-06-10,BB,Medium, Average
+aei,Alset Ehome International Inc,NASDAQ NMS - GLOBAL MARKET,Real Estate,A,High,B,Medium,B,Medium,520,207,210,937,2022-04-20,BBB,High, Average
+aeis,Advanced Energy Industries Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+aep,American Electric Power Company Inc,NASDAQ NMS - GLOBAL MARKET,Utilities,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-20,BBB,High, Leader
+aemd,Aethlon Medical Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,BB,Medium,200,262,315,777,2022-04-16,BB,Medium,Laggard
+aese,Allied Esports Entertainment Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-06-10,B,Medium,Laggard
+aeye,AudioEye Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,BB,Medium,BB,Medium,235,301,308,844,2022-04-16,BB,Medium, Average
+aeri,Aerie Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,A,High,B,Medium,BB,Medium,500,264,310,1074,2022-04-16,BBB,High, Average
+aey,ADDvantage Technologies Group Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,B,Medium,BB,Medium,235,234,300,769,2022-04-16,BB,Medium,Laggard
+afaq,AF Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-06-21,B,Medium,Laggard
+afmd,Affimed NV,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,BB,Medium,BB,Medium,368,304,310,982,2022-04-16,BBB,High, Average
+afcg,AFC Gamma Inc,NASDAQ NMS - GLOBAL MARKET,Real Estate,B,Medium,B,Medium,B,Medium,255,204,226,685,2022-06-10,B,Medium,Laggard
+afbi,Affinity Bancshares Inc,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,B,Medium,B,Medium,200,207,200,607,2022-06-10,B,Medium,Laggard
+afrm,Affirm Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,BB,Medium,BB,Medium,225,335,335,895,2022-06-10,BB,Medium, Average
+afib,Acutus Medical Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,205,211,235,651,2022-06-10,B,Medium,Laggard
+agen,Agenus Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,290,245,300,835,2022-04-16,BB,Medium, Average
+afya,Afya Ltd,NASDAQ NMS - GLOBAL MARKET,Diversified Consumer Services,B,Medium,B,Medium,B,Medium,290,203,205,698,2022-06-10,B,Medium,Laggard
+agfs,AgroFresh Solutions Inc,NASDAQ NMS - GLOBAL MARKET,Chemicals,A,High,BB,Medium,B,Medium,500,301,275,1076,2022-04-16,BBB,High, Average
+agfy,Agrify Corp,NASDAQ NMS - GLOBAL MARKET,Machinery,A,High,BB,Medium,BB,Medium,540,361,305,1206,2022-06-10,A,High, Leader
+agil,AgileThought Inc,NASDAQ NMS - GLOBAL MARKET,Technology,BB,Medium,B,Medium,BB,Medium,340,299,305,944,2022-06-11,BBB,High, Average
+agmh,AGM Group Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,B,Medium,B,Medium,205,204,210,619,2022-06-10,B,Medium,Laggard
+agio,Agios Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,520,303,325,1148,2022-04-16,BBB,High, Leader
+agle,Aeglea Bio Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,205,223,200,628,2022-09-16,B,Medium,Laggard
+agnc,AGNC Investment Corp,NASDAQ NMS - GLOBAL MARKET,Real Estate,BB,Medium,B,Medium,BB,Medium,382,242,305,929,2022-04-16,BBB,High, Average
+agri,AgriFORCE Growing Systems Ltd,NASDAQ NMS - GLOBAL MARKET,Food Products,A,High,B,Medium,BB,Medium,510,248,305,1063,2022-06-11,BBB,High, Average
+agrx,Agile Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,240,203,260,703,2022-04-16,B,Medium,Laggard
+agys,Agilysys Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,500,303,300,1103,2022-04-16,BBB,High, Leader
+agtc,Applied Genetic Technologies Corp,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,BB,Medium,BB,Medium,235,323,305,863,2022-04-16,BB,Medium, Average
+ahco,Adapthealth Corp,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,210,211,235,656,2022-06-10,B,Medium,Laggard
+ahpi,Allied Healthcare Products Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,BB,Medium,210,228,325,763,2022-04-16,BB,Medium,Laggard
+aib,AIB Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,BB,Medium,215,227,300,742,2022-05-24,B,Medium,Laggard
+adtn,ADTRAN Inc,NASDAQ NMS - GLOBAL MARKET,Communications,A,High,BB,Medium,BB,Medium,510,308,300,1118,2022-04-16,BBB,High, Leader
+adn,Advent Technologies Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,B,Medium,B,Medium,250,203,220,673,2022-04-20,B,Medium,Laggard
+aiki,Aikido Pharma Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,200,235,205,640,2022-06-10,B,Medium,Laggard
+akic,Sports Ventures Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,B,Medium,200,205,230,635,2022-06-11,B,Medium,Laggard
+aip,Arteris Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,B,Medium,BB,Medium,500,286,300,1086,2022-06-07,BBB,High, Average
+akro,Akero Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,250,246,305,801,2022-06-10,BB,Medium, Average
+airt,Air T Inc,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,B,Medium,B,Medium,BB,Medium,234,210,325,769,2022-04-16,BB,Medium,Laggard
+aimc,Altra Industrial Motion Corp,NASDAQ NMS - GLOBAL MARKET,Machinery,A,High,BB,Medium,BB,Medium,525,315,305,1145,2022-04-16,BBB,High, Leader
+akba,Akebia Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,200,218,215,633,2022-04-16,B,Medium,Laggard
+airg,Airgain Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,330,1130,2022-04-16,BBB,High, Leader
+airs,Airsculpt Technologies Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,210,201,205,616,2022-06-11,B,Medium,Laggard
+akam,Akamai Technologies Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,515,341,305,1161,2022-04-16,BBB,High, Leader
+aku,Akumin Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,BBB,High,BB,Medium,BB,Medium,455,347,300,1102,2022-04-21,BBB,High, Leader
+akus,Akouos Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,205,221,295,721,2022-06-10,B,Medium,Laggard
+akts,Akoustis Technologies Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,BB,Medium,BBB,High,222,302,428,952,2022-04-16,BBB,High, Average
+aktx,Akari Therapeutics PLC,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,225,216,305,746,2022-04-16,B,Medium,Laggard
+albo,Albireo Pharma Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,310,1110,2022-06-10,BBB,High, Leader
+akya,Akoya Biosciences Inc,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,512,303,215,1030,2022-06-10,BBB,High, Average
+alco,Alico Inc,NASDAQ NMS - GLOBAL MARKET,Food Products,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+aldx,Aldeyra Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,231,261,235,727,2022-04-16,B,Medium,Laggard
+alec,Alector Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,240,277,300,817,2022-06-10,BB,Medium, Average
+algm,Allegro Microsystems Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,B,Medium,542,314,250,1106,2022-06-10,BBB,High, Leader
+alf,Alfi Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,B,Medium,BB,Medium,225,260,315,800,2022-06-11,BB,Medium, Average
+algn,Align Technology Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,235,285,255,775,2022-04-16,BB,Medium,Laggard
+algs,Aligos Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,210,222,235,667,2022-06-10,B,Medium,Laggard
+alhc,Alignment Healthcare LLC,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,BB,Medium,B,Medium,210,302,256,768,2022-06-10,BB,Medium,Laggard
+alks,Alkermes Plc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BBB,High,BB,Medium,BB,Medium,415,302,333,1050,2022-04-16,BBB,High, Average
+alim,Alimera Sciences Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,220,228,243,691,2022-04-16,B,Medium,Laggard
+algt,Allegiant Travel Co,NASDAQ NMS - GLOBAL MARKET,Airlines,B,Medium,B,Medium,B,Medium,287,208,248,743,2022-04-16,B,Medium,Laggard
+aih,Aesthetic Medical International Holdings Group Ltd,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,BB,Medium,220,250,300,770,2022-06-10,BB,Medium,Laggard
+alkt,Alkami Technology Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,BB,Medium,B,Medium,280,305,260,845,2022-06-10,BB,Medium, Average
+alny,Alnylam Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,BB,Medium,BB,Medium,331,346,325,1002,2022-04-16,BBB,High, Average
+allt,Allot Ltd,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,508,324,310,1142,2022-04-16,BBB,High, Leader
+allo,Allogene Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,535,324,305,1164,2022-06-10,BBB,High, Leader
+amat,Applied Materials Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,525,317,300,1142,2022-04-16,BBB,High, Leader
+amd,Advanced Micro Devices Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,B,Medium,B,Medium,B,Medium,200,208,200,608,2022-04-16,B,Medium,Laggard
+atvi,Activision Blizzard Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,BB,Medium,280,347,330,957,2022-04-16,BBB,High, Average
+avgo,Broadcom Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,B,Medium,B,Medium,B,Medium,210,212,200,622,2022-04-16,B,Medium,Laggard
+anss,ANSYS Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,B,Medium,580,337,285,1202,2022-04-16,A,High, Leader
+amzn,Amazon.com Inc,NASDAQ NMS - GLOBAL MARKET,Retail,AA,Excellent,BB,Medium,BBB,High,668,305,460,1433,2022-04-16,A,High, Leader
+aihs,Senmiao Technology Ltd,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,B,Medium,B,Medium,220,203,200,623,2022-06-10,B,Medium,Laggard
+apa,APA Corp (US),NASDAQ NMS - GLOBAL MARKET,Energy,A,High,BB,Medium,BB,Medium,510,316,325,1151,2022-04-16,BBB,High, Leader
+biib,Biogen Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,BB,Medium,BB,Medium,380,303,364,1047,2022-04-16,BBB,High, Average
+bkng,Booking Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,558,306,310,1174,2022-06-10,BBB,High, Leader
+cdns,Cadence Design Systems Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,B,Medium,500,308,295,1103,2022-04-16,BBB,High, Leader
+cdw,CDW Corp,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,B,Medium,B,Medium,225,209,200,634,2022-04-16,B,Medium,Laggard
+chrw,CH Robinson Worldwide Inc,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,A,High,BB,Medium,BB,Medium,575,330,338,1243,2022-04-16,A,High, Leader
+cinf,Cincinnati Financial Corp,NASDAQ NMS - GLOBAL MARKET,Insurance,B,Medium,B,Medium,B,Medium,235,275,250,760,2022-04-16,BB,Medium,Laggard
+chtr,Charter Communications Inc,NASDAQ NMS - GLOBAL MARKET,Media,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+cmcsa,Comcast Corp,NASDAQ NMS - GLOBAL MARKET,Media,A,High,BB,Medium,BB,Medium,507,343,315,1165,2022-04-16,BBB,High, Leader
+cprt,Copart Inc,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,B,Medium,B,Medium,B,Medium,270,204,205,679,2022-04-16,B,Medium,Laggard
+cost,Costco Wholesale Corp,NASDAQ NMS - GLOBAL MARKET,Retail,A,High,BB,Medium,B,Medium,537,306,225,1068,2022-04-16,BBB,High, Average
+csx,CSX Corp,NASDAQ NMS - GLOBAL MARKET,Road and Rail,A,High,BB,Medium,BB,Medium,510,310,325,1145,2022-04-17,BBB,High, Leader
+ctsh,Cognizant Technology Solutions Corp,NASDAQ NMS - GLOBAL MARKET,Technology,AA,Excellent,BB,Medium,BB,Medium,605,365,300,1270,2022-04-16,A,High, Leader
+cme,CME Group Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,BB,Medium,B,Medium,B,Medium,375,237,200,812,2022-07-26,BB,Medium, Average
+csco,Cisco Systems Inc,NASDAQ NMS - GLOBAL MARKET,Communications,B,Medium,B,Medium,B,Medium,280,234,220,734,2022-06-11,B,Medium,Laggard
+ctas,Cintas Corp,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+ctxs,Citrix Systems Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,530,305,305,1140,2022-04-16,BBB,High, Leader
+czr,Caesars Entertainment Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,265,228,200,693,2022-04-16,B,Medium,Laggard
+dish,DISH Network Corp,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,B,Medium,B,Medium,210,263,205,678,2022-04-17,B,Medium,Laggard
+dltr,Dollar Tree Inc,NASDAQ NMS - GLOBAL MARKET,Retail,B,Medium,B,Medium,B,Medium,235,208,215,658,2022-04-17,B,Medium,Laggard
+dxcm,Dexcom Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,215,236,215,666,2022-04-17,B,Medium,Laggard
+ea,Electronic Arts Inc,NASDAQ NMS - GLOBAL MARKET,Media,BB,Medium,BB,Medium,B,Medium,360,300,225,885,2022-04-17,BB,Medium, Average
+lnt,Alliant Energy Corp,NASDAQ NMS - GLOBAL MARKET,Utilities,A,High,BB,Medium,BB,Medium,519,307,300,1126,2022-04-16,BBB,High, Leader
+fang,Diamondback Energy Inc,NASDAQ NMS - GLOBAL MARKET,Energy,A,High,B,Medium,BB,Medium,513,271,300,1084,2022-04-17,BBB,High, Average
+ebay,eBay Inc,NASDAQ NMS - GLOBAL MARKET,Retail,A,High,BB,Medium,BB,Medium,500,302,305,1107,2022-04-17,BBB,High, Leader
+lkq,LKQ Corp,NASDAQ NMS - GLOBAL MARKET,Distributors,A,High,BB,Medium,BB,Medium,515,300,305,1120,2022-04-18,BBB,High, Leader
+googl,Alphabet Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,BB,Medium,295,362,355,1012,2022-04-30,BBB,High, Average
+mar,Marriott International Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,215,200,215,630,2022-04-18,B,Medium,Laggard
+mchp,Microchip Technology Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+lrcx,Lam Research Corp,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,510,325,315,1150,2022-04-18,BBB,High, Leader
+mdlz,Mondelez International Inc,NASDAQ NMS - GLOBAL MARKET,Food Products,A,High,BB,Medium,BB,Medium,520,307,300,1127,2022-04-18,BBB,High, Leader
+meta,Meta Platforms Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,B,Medium,B,Medium,205,232,215,652,2022-04-22,B,Medium,Laggard
+mktx,Marketaxess Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,B,Medium,B,Medium,230,213,210,653,2022-04-18,B,Medium,Laggard
+mnst,Monster Beverage Corp,NASDAQ NMS - GLOBAL MARKET,Beverages,A,High,BB,Medium,BB,Medium,515,344,300,1159,2022-04-18,BBB,High, Leader
+mrna,Moderna Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+mtch,Match Group Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,BB,Medium,245,389,311,945,2022-04-18,BBB,High, Average
+mpwr,Monolithic Power Systems Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,BB,Medium,B,Medium,B,Medium,330,287,235,852,2022-04-18,BB,Medium, Average
+msft,Microsoft Corp,NASDAQ NMS - GLOBAL MARKET,Technology,AA,Excellent,BBB,High,BB,Medium,715,443,375,1533,2022-04-27,A,High, Leader
+mu,Micron Technology Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,530,330,300,1160,2022-04-18,BBB,High, Leader
+ndaq,Nasdaq Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,A,High,BB,Medium,BB,Medium,505,310,300,1115,2022-04-18,BBB,High, Leader
+nlok,NortonLifeLock Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,505,315,305,1125,2022-06-10,BBB,High, Leader
+ntrs,Northern Trust Corp,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,B,Medium,B,Medium,250,226,225,701,2022-04-18,B,Medium,Laggard
+nwl,Newell Brands Inc,NASDAQ NMS - GLOBAL MARKET,Consumer products,A,High,BB,Medium,BB,Medium,525,303,315,1143,2022-04-18,BBB,High, Leader
+nvda,NVIDIA Corp,NASDAQ NMS - GLOBAL MARKET,Semiconductors,BB,Medium,BB,Medium,B,Medium,323,301,275,899,2022-04-18,BB,Medium, Average
+allk,Allakos Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,200,273,300,773,2022-06-10,BB,Medium,Laggard
+nwsa,News Corp,NASDAQ NMS - GLOBAL MARKET,Media,A,High,BB,Medium,BB,Medium,509,300,300,1109,2022-04-18,BBB,High, Leader
+odfl,Old Dominion Freight Line Inc,NASDAQ NMS - GLOBAL MARKET,Road and Rail,BBB,High,BBB,High,B,Medium,467,423,280,1170,2022-04-18,BBB,High, Leader
+pcar,Paccar Inc,NASDAQ NMS - GLOBAL MARKET,Machinery,A,High,BB,Medium,BB,Medium,568,343,305,1216,2022-04-18,A,High, Leader
+nxpi,NXP Semiconductors NV,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,505,329,305,1139,2022-04-18,BBB,High, Leader
+orly,O'Reilly Automotive Inc,NASDAQ NMS - GLOBAL MARKET,Retail,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+payx,Paychex Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-07-26,BBB,High, Average
+pfg,Principal Financial Group Inc,NASDAQ NMS - GLOBAL MARKET,Insurance,A,High,BB,Medium,BB,Medium,555,320,300,1175,2022-04-18,BBB,High, Leader
+rost,Ross Stores Inc,NASDAQ NMS - GLOBAL MARKET,Retail,BB,Medium,BB,Medium,BB,Medium,375,325,300,1000,2022-04-19,BBB,High, Average
+sbac,SBA Communications Corp,NASDAQ NMS - GLOBAL MARKET,Real Estate,B,Medium,B,Medium,B,Medium,250,251,215,716,2022-04-19,B,Medium,Laggard
+qcom,Qualcomm Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,BBB,High,BB,Medium,BB,Medium,409,300,300,1009,2022-04-19,BBB,High, Average
+pool,Pool Corp,NASDAQ NMS - GLOBAL MARKET,Distributors,A,High,BB,Medium,BB,Medium,525,306,313,1144,2022-04-18,BBB,High, Leader
+pep,PepsiCo Inc,NASDAQ NMS - GLOBAL MARKET,Beverages,AA,Excellent,BB,Medium,BB,Medium,719,340,358,1417,2022-04-18,A,High, Leader
+sbux,Starbucks Corp,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,BBB,High,BB,Medium,B,Medium,475,385,295,1155,2022-04-19,BBB,High, Leader
+reg,Regency Centers Corp,NASDAQ NMS - GLOBAL MARKET,Real Estate,A,High,BB,Medium,BB,Medium,575,372,365,1312,2022-04-19,A,High, Leader
+qrvo,Qorvo Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,535,310,305,1150,2022-04-19,BBB,High, Leader
+ptc,PTC Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,550,302,308,1160,2022-04-19,BBB,High, Leader
+penn,PENN Entertainment Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,BB,Medium,BB,Medium,B,Medium,371,300,220,891,2022-04-18,BB,Medium, Average
+pypl,PayPal Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Technology,BB,Medium,B,Medium,B,Medium,370,244,285,899,2022-04-18,BB,Medium, Average
+regn,Regeneron Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,505,327,305,1137,2022-04-19,BBB,High, Leader
+amgn,Amgen Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,575,312,328,1215,2022-04-16,A,High, Leader
+snps,Synopsys Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,525,316,315,1156,2022-04-19,BBB,High, Leader
+stx,Seagate Technology Holdings PLC,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,540,355,300,1195,2022-04-19,BBB,High, Leader
+tech,Bio-Techne Corp,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,A,High,B,Medium,BB,Medium,510,268,300,1078,2022-04-16,BBB,High, Average
+ter,Teradyne Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,507,328,315,1150,2022-04-19,BBB,High, Leader
+swks,Skyworks Solutions Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,B,Medium,515,303,270,1088,2022-04-19,BBB,High, Average
+trmb,Trimble Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,A,High,BBB,High,BB,Medium,550,415,315,1280,2022-04-19,A,High, Leader
+trow,T Rowe Price Group Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,A,High,BB,Medium,BB,Medium,510,325,310,1145,2022-04-19,BBB,High, Leader
+ttwo,Take-Two Interactive Software Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,BB,Medium,225,307,310,842,2022-04-19,BB,Medium, Average
+tsla,Tesla Inc,NASDAQ NMS - GLOBAL MARKET,Automobiles,A,High,CCC,Low,B,Medium,555,160,278,993,2022-04-19,BBB,High, Average
+tsco,Tractor Supply Co,NASDAQ NMS - GLOBAL MARKET,Retail,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-09-17,BBB,High, Average
+txn,Texas Instruments Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+tmus,T-Mobile US Inc,NASDAQ NMS - GLOBAL MARKET,Telecommunication,BB,Medium,BB,Medium,B,Medium,342,331,230,903,2022-04-19,BBB,High, Average
+ual,United Airlines Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Airlines,B,Medium,B,Medium,B,Medium,205,203,221,629,2022-04-19,B,Medium,Laggard
+vrsk,Verisk Analytics Inc,NASDAQ NMS - GLOBAL MARKET,Professional Services,AA,Excellent,BB,Medium,BB,Medium,615,366,300,1281,2022-04-19,A,High, Leader
+ulta,Ulta Beauty Inc,NASDAQ NMS - GLOBAL MARKET,Retail,B,Medium,B,Medium,B,Medium,205,242,200,647,2022-04-19,B,Medium,Laggard
+vrtx,Vertex Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+vtrs,Viatris Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-09-24,BBB,High, Average
+vrsn,Verisign Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,548,354,325,1227,2022-04-19,A,High, Leader
+wba,Walgreens Boots Alliance Inc,NASDAQ NMS - GLOBAL MARKET,Retail,A,High,BB,Medium,BB,Medium,515,325,300,1140,2022-04-19,BBB,High, Leader
+ntap,NetApp Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,545,359,325,1229,2022-04-18,A,High, Leader
+xel,Xcel Energy Inc,NASDAQ NMS - GLOBAL MARKET,Utilities,B,Medium,B,Medium,B,Medium,223,201,205,629,2022-04-20,B,Medium,Laggard
+xray,DENTSPLY SIRONA Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,A,High,BB,Medium,BB,Medium,530,318,305,1153,2022-04-17,BBB,High, Leader
+zbra,Zebra Technologies Corp,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,BB,Medium,BB,Medium,BB,Medium,320,317,300,937,2022-04-20,BBB,High, Average
+aap,Advance Auto Parts Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,B,Medium,B,Medium,B,Medium,264,261,210,735,2022-04-16,B,Medium,Laggard
+zion,Zions Bancorporation NA,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-04-20,B,Medium,Laggard
+wynn,Wynn Resorts Ltd,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,225,201,200,626,2022-04-20,B,Medium,Laggard
+a,Agilent Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,B,Medium,B,Medium,573,231,233,1037,2022-04-16,BBB,High, Average
+abbv,Abbvie Inc,"NEW YORK STOCK EXCHANGE, INC.",Biotechnology,A,High,BB,Medium,BB,Medium,505,317,300,1122,2022-04-16,BBB,High, Leader
+abc,Amerisourcebergen Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,505,300,315,1120,2022-04-16,BBB,High, Leader
+adm,Archer-Daniels-Midland Co,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,587,353,305,1245,2022-04-16,A,High, Leader
+abt,Abbott Laboratories,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,515,305,305,1125,2022-04-16,BBB,High, Leader
+aee,Ameren Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,562,345,300,1207,2022-04-16,A,High, Leader
+aes,AES Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,525,326,370,1221,2022-04-16,A,High, Leader
+afl,Aflac Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,BBB,High,BB,Medium,B,Medium,454,300,235,989,2022-04-16,BBB,High, Average
+acn,Accenture PLC,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,515,360,305,1180,2022-04-16,BBB,High, Leader
+ajg,Arthur J. Gallagher & Co.,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,530,344,310,1184,2022-04-16,BBB,High, Leader
+aiz,Assurant Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,BBB,High,BB,Medium,BB,Medium,438,316,300,1054,2022-04-16,BBB,High, Average
+alk,Alaska Air Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Airlines,A,High,BB,Medium,B,Medium,515,303,259,1077,2022-04-16,BBB,High, Average
+alb,Albemarle Corp,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,545,322,315,1182,2022-04-16,BBB,High, Leader
+aig,American International Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,518,323,310,1151,2022-04-16,BBB,High, Leader
+all,Allstate Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,B,Medium,530,300,220,1050,2022-04-16,BBB,High, Average
+alle,Allegion PLC,"NEW YORK STOCK EXCHANGE, INC.",Building,A,High,BB,Medium,BB,Medium,542,322,315,1179,2022-04-16,BBB,High, Leader
+amp,Ameriprise Financial Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,BB,Medium,BB,Medium,B,Medium,396,308,267,971,2022-04-16,BBB,High, Average
+ame,AMETEK Inc,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,A,High,BB,Medium,B,Medium,540,329,270,1139,2022-04-16,BBB,High, Leader
+amt,American Tower Corp,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,530,333,305,1168,2022-04-16,BBB,High, Leader
+aos,A O Smith Corp,"NEW YORK STOCK EXCHANGE, INC.",Building,A,High,BB,Medium,BB,Medium,510,315,310,1135,2022-04-16,BBB,High, Leader
+apd,Air Products and Chemicals Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,AA,Excellent,BBB,High,BB,Medium,700,442,300,1442,2022-04-16,A,High, Leader
+aon,Aon PLC,"NEW YORK STOCK EXCHANGE, INC.",Insurance,BBB,High,BB,Medium,B,Medium,485,304,288,1077,2022-04-16,BBB,High, Average
+anet,Arista Networks Inc,"NEW YORK STOCK EXCHANGE, INC.",Communications,BBB,High,BB,Medium,B,Medium,444,310,295,1049,2022-04-16,BBB,High, Average
+aph,Amphenol Corp,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,A,High,BB,Medium,BBB,High,512,303,475,1290,2022-04-16,A,High, Leader
+ato,Atmos Energy Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,572,368,315,1255,2022-04-16,A,High, Leader
+awk,American Water Works Company Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BB,Medium,BB,Medium,653,395,300,1348,2022-04-16,A,High, Leader
+are,Alexandria Real Estate Equities Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,AA,Excellent,BB,Medium,BB,Medium,600,337,345,1282,2022-04-16,A,High, Leader
+aptv,Aptiv PLC,"NEW YORK STOCK EXCHANGE, INC.",Auto Components,A,High,BB,Medium,BB,Medium,555,339,310,1204,2022-06-10,A,High, Leader
+avb,Avalonbay Communities Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,B,Medium,500,300,298,1098,2022-04-16,BBB,High, Average
+avy,Avery Dennison Corp,"NEW YORK STOCK EXCHANGE, INC.",Packaging,A,High,BB,Medium,BB,Medium,535,347,325,1207,2022-04-16,A,High, Leader
+ba,Boeing Co,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,B,Medium,B,Medium,B,Medium,220,224,235,679,2022-09-21,B,Medium,Laggard
+bac,Bank of America Corp,"NEW YORK STOCK EXCHANGE, INC.",Banking,B,Medium,BB,Medium,B,Medium,220,394,265,879,2022-04-16,BB,Medium, Average
+bax,Baxter International Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,500,316,300,1116,2022-04-16,BBB,High, Leader
+bbwi,Bath & Body Works Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,A,High,BB,Medium,BB,Medium,525,303,300,1128,2022-06-11,BBB,High, Leader
+bdx,Becton Dickinson and Co,"NEW YORK STOCK EXCHANGE, INC.",Health Care,AA,Excellent,BB,Medium,BB,Medium,607,384,315,1306,2022-04-16,A,High, Leader
+bio,Bio Rad Laboratories Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,B,Medium,B,Medium,BB,Medium,275,227,300,802,2022-04-16,BB,Medium, Average
+bby,Best Buy Co Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,BBB,High,B,Medium,BB,Medium,430,231,300,961,2022-04-16,BBB,High, Average
+bk,Bank of New York Mellon Corp,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+axp,American Express Co,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,B,Medium,B,Medium,B,Medium,230,226,208,664,2022-04-16,B,Medium,Laggard
+br,Broadridge Financial Solutions Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,550,313,325,1188,2022-04-16,BBB,High, Leader
+bmy,Bristol-Myers Squibb Co,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,321,310,1131,2022-04-16,BBB,High, Leader
+bro,Brown & Brown Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,BBB,High,BB,Medium,BB,Medium,405,320,300,1025,2022-04-16,BBB,High, Average
+azo,Autozone Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,B,Medium,B,Medium,B,Medium,260,222,213,695,2022-04-16,B,Medium,Laggard
+bsx,Boston Scientific Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,525,399,300,1224,2022-04-16,A,High, Leader
+bx,Blackstone Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,534,343,320,1197,2022-04-16,BBB,High, Leader
+bxp,Boston Properties Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,532,339,305,1176,2022-04-16,BBB,High, Leader
+sivb,SVB Financial Group,NASDAQ NMS - GLOBAL MARKET,Banking,A,High,BB,Medium,BB,Medium,510,340,300,1150,2022-04-19,BBB,High, Leader
+c,Citigroup Inc,"NEW YORK STOCK EXCHANGE, INC.",Banking,A,High,BB,Medium,BB,Medium,515,300,303,1118,2022-04-16,BBB,High, Leader
+cat,Caterpillar Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,B,Medium,B,Medium,B,Medium,235,239,235,709,2022-06-07,B,Medium,Laggard
+carr,Carrier Global Corp,"NEW YORK STOCK EXCHANGE, INC.",Building,B,Medium,B,Medium,B,Medium,210,258,226,694,2022-04-21,B,Medium,Laggard
+cbre,CBRE Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,B,Medium,200,209,200,609,2022-06-10,B,Medium,Laggard
+cci,Crown Castle Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-09-16,BBB,High, Average
+cday,Ceridian HCM Holding Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,530,379,320,1229,2022-04-21,A,High, Leader
+cma,Comerica Inc,"NEW YORK STOCK EXCHANGE, INC.",Banking,B,Medium,BB,Medium,B,Medium,280,300,230,810,2022-04-16,BB,Medium, Average
+dhi,D R Horton Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,B,Medium,B,Medium,B,Medium,250,271,205,726,2022-04-17,B,Medium,Laggard
+dov,Dover Corp,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,BB,Medium,500,320,305,1125,2022-04-17,BBB,High, Leader
+dri,Darden Restaurants Inc,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,515,309,300,1124,2022-04-17,BBB,High, Leader
+ce,Celanese Corp,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,500,319,300,1119,2022-06-10,BBB,High, Leader
+dg,Dollar General Corp,"NEW YORK STOCK EXCHANGE, INC.",Retail,B,Medium,B,Medium,B,Medium,247,222,200,669,2022-04-17,B,Medium,Laggard
+cmg,Chipotle Mexican Grill Inc,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,210,241,213,664,2022-04-16,B,Medium,Laggard
+dgx,Quest Diagnostics Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,B,Medium,BB,Medium,B,Medium,230,300,205,735,2022-04-19,B,Medium,Laggard
+ccl,Carnival Corp,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,515,326,320,1161,2022-04-16,BBB,High, Leader
+chd,Church & Dwight Co Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BB,Medium,BB,Medium,578,341,348,1267,2022-04-16,A,High, Leader
+dow,Dow Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,B,Medium,B,Medium,B,Medium,225,201,200,626,2022-04-17,B,Medium,Laggard
+dfs,Discover Financial Services,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,BB,Medium,BB,Medium,BB,Medium,335,321,313,969,2022-04-17,BBB,High, Average
+duk,Duke Energy Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BB,Medium,BB,Medium,604,362,328,1294,2022-04-17,A,High, Leader
+dre,Duke Realty Corp,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,540,313,300,1153,2022-04-17,BBB,High, Leader
+cf,CF Industries Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,525,307,310,1142,2022-04-16,BBB,High, Leader
+dvn,Devon Energy Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,570,301,300,1171,2022-04-17,BBB,High, Leader
+ecl,Ecolab Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,547,373,325,1245,2022-04-17,A,High, Leader
+hd,Home Depot Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,B,Medium,BB,Medium,B,Medium,230,317,205,752,2022-04-17,BB,Medium,Laggard
+dte,DTE Energy Co,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,B,Medium,592,313,210,1115,2022-04-17,BBB,High, Leader
+eix,Edison International,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,A,High,BB,Medium,700,513,315,1528,2022-04-17,A,High, Leader
+glw,Corning Inc,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-04-16,B,Medium,Laggard
+dva,DaVita Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,B,Medium,BB,Medium,BB,Medium,260,332,300,892,2022-04-17,BB,Medium, Average
+wdc,Western Digital Corp,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,B,Medium,545,339,260,1144,2022-04-20,BBB,High, Leader
+gs,Goldman Sachs Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,525,305,305,1135,2022-04-17,BBB,High, Leader
+dxc,DXC Technology Co,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,505,326,305,1136,2022-06-10,BBB,High, Leader
+etn,Eaton Corporation PLC,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,A,High,BB,Medium,BB,Medium,520,328,320,1168,2022-04-17,BBB,High, Leader
+ed,Consolidated Edison Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BB,Medium,BB,Medium,700,358,300,1358,2022-04-16,A,High, Leader
+hsy,Hershey Co,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,525,361,300,1186,2022-04-17,BBB,High, Leader
+jnj,Johnson & Johnson,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,565,308,300,1173,2022-04-18,BBB,High, Leader
+jpm,JPMorgan Chase & Co,"NEW YORK STOCK EXCHANGE, INC.",Banking,A,High,BB,Medium,BB,Medium,505,319,338,1162,2022-04-18,BBB,High, Leader
+ko,Coca-Cola Co,"NEW YORK STOCK EXCHANGE, INC.",Beverages,B,Medium,B,Medium,B,Medium,200,201,200,601,2022-04-16,B,Medium,Laggard
+kmx,Carmax Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,B,Medium,B,Medium,BB,Medium,251,237,300,788,2022-04-16,BB,Medium,Laggard
+ldos,Leidos Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+leg,Leggett & Platt Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+mcd,McDonald's Corp,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,505,326,305,1136,2022-04-18,BBB,High, Leader
+lin,Linde PLC,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,B,Medium,B,Medium,B,Medium,210,240,275,725,2022-04-20,B,Medium,Laggard
+lumn,Lumen Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Telecommunication,A,High,BB,Medium,BB,Medium,535,327,305,1167,2022-06-10,BBB,High, Leader
+lyb,LyondellBasell Industries NV,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,587,352,330,1269,2022-04-18,A,High, Leader
+mco,Moody's Corp,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,B,Medium,515,308,235,1058,2022-04-18,BBB,High, Average
+mck,Mckesson Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,500,303,310,1113,2022-04-18,BBB,High, Leader
+mas,Masco Corp,"NEW YORK STOCK EXCHANGE, INC.",Building,A,High,BB,Medium,BB,Medium,522,323,305,1150,2022-04-18,BBB,High, Leader
+low,Lowe's Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,B,Medium,B,Medium,B,Medium,218,200,200,618,2022-04-18,B,Medium,Laggard
+mdt,Medtronic PLC,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,515,308,315,1138,2022-04-18,BBB,High, Leader
+mkc,McCormick & Company Inc,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+met,MetLife Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,517,305,305,1127,2022-04-18,BBB,High, Leader
+mgm,MGM Resorts International,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-09-17,BBB,High, Average
+mmc,Marsh & McLennan Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+mo,Altria Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Tobacco,A,High,BB,Medium,BB,Medium,500,327,341,1168,2022-04-16,BBB,High, Leader
+bwa,Borgwarner Inc,"NEW YORK STOCK EXCHANGE, INC.",Auto Components,B,Medium,B,Medium,B,Medium,260,206,230,696,2022-04-16,B,Medium,Laggard
+mrk,Merck & Co Inc,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,305,315,1120,2022-04-18,BBB,High, Leader
+mro,Marathon Oil Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,530,313,305,1148,2022-04-21,BBB,High, Leader
+mpc,Marathon Petroleum Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,AA,Excellent,BB,Medium,BB,Medium,700,366,315,1381,2022-04-18,A,High, Leader
+ms,Morgan Stanley,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,555,303,320,1178,2022-04-18,BBB,High, Leader
+mtb,M&T Bank Corp,"NEW YORK STOCK EXCHANGE, INC.",Banking,A,High,BB,Medium,B,Medium,500,303,260,1063,2022-04-18,BBB,High, Average
+mtd,Mettler-Toledo International Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,505,300,240,1045,2022-04-18,BBB,High, Average
+msi,Motorola Solutions Inc,"NEW YORK STOCK EXCHANGE, INC.",Communications,A,High,BB,Medium,BB,Medium,505,305,347,1157,2022-04-18,BBB,High, Leader
+nee,Nextera Energy Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BB,Medium,BB,Medium,668,306,313,1287,2022-04-18,A,High, Leader
+msci,MSCI Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,580,347,335,1262,2022-04-18,A,High, Leader
+nclh,Norwegian Cruise Line Holdings Ltd,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,BBB,High,BB,Medium,BB,Medium,495,306,300,1101,2022-04-18,BBB,High, Leader
+ni,NiSource Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,BB,Medium,BB,Medium,B,Medium,361,322,223,906,2022-04-18,BBB,High, Average
+noc,Northrop Grumman Corp,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,505,302,300,1107,2022-04-18,BBB,High, Leader
+now,ServiceNow Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,550,374,350,1274,2022-04-19,A,High, Leader
+nue,Nucor Corp,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,BB,Medium,BB,Medium,B,Medium,374,340,225,939,2022-04-18,BBB,High, Average
+nlsn,Nielsen Holdings PLC,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,A,High,BB,Medium,BB,Medium,500,310,300,1110,2022-04-18,BBB,High, Leader
+nsc,Norfolk Southern Corp,"NEW YORK STOCK EXCHANGE, INC.",Road and Rail,BB,Medium,BB,Medium,BB,Medium,358,339,330,1027,2022-04-18,BBB,High, Average
+nvr,NVR Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,B,Medium,B,Medium,B,Medium,265,206,205,676,2022-04-18,B,Medium,Laggard
+pgr,Progressive Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,BB,Medium,BB,Medium,B,Medium,350,355,270,975,2022-04-19,BBB,High, Average
+pfe,Pfizer Inc,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-18,BBB,High, Leader
+phm,Pultegroup Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,B,Medium,B,Medium,B,Medium,215,203,240,658,2022-04-19,B,Medium,Laggard
+ph,Parker-Hannifin Corp,"NEW YORK STOCK EXCHANGE, INC.",Machinery,BB,Medium,BB,Medium,B,Medium,325,303,225,853,2022-04-18,BB,Medium, Average
+pki,PerkinElmer Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,515,316,325,1156,2022-04-18,BBB,High, Leader
+pld,Prologis Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,579,374,315,1268,2022-04-19,A,High, Leader
+ppg,PPG Industries Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,B,Medium,B,Medium,B,Medium,293,236,220,749,2022-04-18,B,Medium,Laggard
+psa,Public Storage,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,B,Medium,235,245,205,685,2022-04-19,B,Medium,Laggard
+pnc,PNC Financial Services Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Banking,BBB,High,BB,Medium,BB,Medium,455,323,300,1078,2022-04-18,BBB,High, Average
+pm,Philip Morris International Inc,"NEW YORK STOCK EXCHANGE, INC.",Tobacco,A,High,BB,Medium,BB,Medium,520,327,315,1162,2022-04-18,BBB,High, Leader
+pkg,Packaging Corp of America,"NEW YORK STOCK EXCHANGE, INC.",Packaging,A,High,BB,Medium,BB,Medium,500,303,300,1103,2022-04-18,BBB,High, Leader
+psx,Phillips 66,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,569,363,310,1242,2022-04-18,A,High, Leader
+pru,Prudential Financial Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,B,Medium,BB,Medium,B,Medium,285,300,288,873,2022-04-19,BB,Medium, Average
+pnr,Pentair PLC,"NEW YORK STOCK EXCHANGE, INC.",Machinery,BBB,High,BB,Medium,BB,Medium,433,330,315,1078,2022-04-18,BBB,High, Average
+pnw,Pinnacle West Capital Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BBB,High,BB,Medium,629,479,300,1408,2022-04-18,A,High, Leader
+ppl,PPL Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,525,306,300,1131,2022-04-18,BBB,High, Leader
+pwr,Quanta Services Inc,"NEW YORK STOCK EXCHANGE, INC.",Construction,A,High,BB,Medium,BB,Medium,540,382,310,1232,2022-04-19,A,High, Leader
+rjf,Raymond James Financial Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,505,309,305,1119,2022-04-19,BBB,High, Leader
+rf,Regions Financial Corp,"NEW YORK STOCK EXCHANGE, INC.",Banking,BBB,High,BB,Medium,BB,Medium,490,304,305,1099,2022-04-17,BBB,High, Average
+rcl,Royal Caribbean Cruises Ltd,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,503,327,310,1140,2022-04-19,BBB,High, Leader
+rl,Ralph Lauren Corp,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,420,352,303,1075,2022-04-19,BBB,High, Average
+pvh,PVH Corp,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,418,319,315,1052,2022-04-19,BBB,High, Average
+rhi,Robert Half International Inc,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,B,Medium,BB,Medium,BB,Medium,255,334,310,899,2022-04-19,BB,Medium, Average
+pxd,Pioneer Natural Resources Co,"NEW YORK STOCK EXCHANGE, INC.",Energy,AA,Excellent,BBB,High,BB,Medium,700,412,300,1412,2022-04-18,A,High, Leader
+rol,Rollins Inc,"NEW YORK STOCK EXCHANGE, INC.",Commercial Services and Supplies,A,High,BB,Medium,BB,Medium,500,300,305,1105,2022-04-19,BBB,High, Leader
+rmd,Resmed Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,BB,Medium,BB,Medium,BB,Medium,330,312,300,942,2022-04-19,BBB,High, Average
+schw,Charles Schwab Corp,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,515,300,300,1115,2022-04-16,BBB,High, Leader
+rok,Rockwell Automation Inc,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,BB,Medium,B,Medium,B,Medium,308,243,210,761,2022-04-19,BB,Medium,Laggard
+tdg,TransDigm Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+see,Sealed Air Corp,"NEW YORK STOCK EXCHANGE, INC.",Packaging,A,High,BB,Medium,B,Medium,555,318,257,1130,2022-04-19,BBB,High, Leader
+rop,Roper Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,570,350,340,1260,2022-04-19,A,High, Leader
+swk,Stanley Black & Decker Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,BB,Medium,555,315,300,1170,2022-04-19,BBB,High, Leader
+stz,Constellation Brands Inc,"NEW YORK STOCK EXCHANGE, INC.",Beverages,BBB,High,BB,Medium,B,Medium,459,313,295,1067,2022-04-16,BBB,High, Average
+syk,Stryker Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,BBB,High,BB,Medium,BB,Medium,485,321,325,1131,2022-04-19,BBB,High, Leader
+syy,Sysco Corp,"NEW YORK STOCK EXCHANGE, INC.",Retail,A,High,BB,Medium,BB,Medium,555,301,305,1161,2022-04-19,BBB,High, Leader
+shw,Sherwin-Williams Co,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,B,Medium,B,Medium,B,Medium,295,259,220,774,2022-04-19,BB,Medium,Laggard
+spgi,S&P Global Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,BBB,High,BB,Medium,BB,Medium,435,341,310,1086,2022-06-11,BBB,High, Average
+ste,STERIS plc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,510,301,305,1116,2022-04-19,BBB,High, Leader
+syf,Synchrony Financial,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,BB,Medium,BB,Medium,BB,Medium,325,312,310,947,2022-04-19,BBB,High, Average
+spg,Simon Property Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,B,Medium,225,247,205,677,2022-04-19,B,Medium,Laggard
+sre,Sempra Energy,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BB,Medium,BB,Medium,700,386,310,1396,2022-04-19,A,High, Leader
+so,Southern Co,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,515,307,330,1152,2022-04-19,BBB,High, Leader
+stt,State Street Corp,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,B,Medium,B,Medium,B,Medium,225,211,210,646,2022-04-19,B,Medium,Laggard
+sna,Snap-On Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,B,Medium,500,300,261,1061,2022-04-19,BBB,High, Average
+rtx,Raytheon Technologies Corp,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BBB,High,520,330,400,1250,2022-06-11,A,High, Leader
+hig,Hartford Financial Services Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,500,305,305,1110,2022-04-17,BBB,High, Leader
+tel,TE Connectivity Ltd,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-04-19,B,Medium,Laggard
+tfx,Teleflex Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-04-19,B,Medium,Laggard
+tfc,Truist Financial Corp,"NEW YORK STOCK EXCHANGE, INC.",Banking,BBB,High,BB,Medium,BB,Medium,480,308,300,1088,2022-06-11,BBB,High, Average
+tdy,Teledyne Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+tgt,Target Corp,"NEW YORK STOCK EXCHANGE, INC.",Retail,A,High,BB,Medium,BB,Medium,550,342,313,1205,2022-04-19,A,High, Leader
+tjx,TJX Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+tpr,Tapestry Inc,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,483,310,300,1093,2022-06-11,BBB,High, Average
+trv,Travelers Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-07-27,BBB,High, Leader
+tmo,Thermo Fisher Scientific Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,527,332,280,1139,2022-04-19,BBB,High, Leader
+tt,Trane Technologies PLC,"NEW YORK STOCK EXCHANGE, INC.",Building,AA,Excellent,BB,Medium,BB,Medium,700,389,320,1409,2022-06-11,A,High, Leader
+tsn,Tyson Foods Inc,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,530,374,340,1244,2022-04-19,A,High, Leader
+tyl,Tyler Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,BBB,High,BB,Medium,BB,Medium,400,306,305,1011,2022-04-19,BBB,High, Average
+txt,Textron Inc,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-09-17,BBB,High, Average
+unh,UnitedHealth Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+ups,United Parcel Service Inc,"NEW YORK STOCK EXCHANGE, INC.",Logistics and Transportation,A,High,BB,Medium,B,Medium,540,374,245,1159,2022-04-19,BBB,High, Leader
+udr,UDR Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,BB,Medium,B,Medium,225,301,215,741,2022-04-19,B,Medium,Laggard
+uhs,Universal Health Services Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,560,320,338,1218,2022-04-19,A,High, Leader
+mos,Mosaic Co,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,515,379,315,1209,2022-04-18,A,High, Leader
+usb,US Bancorp,"NEW YORK STOCK EXCHANGE, INC.",Banking,BB,Medium,BB,Medium,BB,Medium,336,317,300,953,2022-04-19,BBB,High, Average
+uri,United Rentals Inc,"NEW YORK STOCK EXCHANGE, INC.",Trading Companies and Distributors,BBB,High,BB,Medium,BB,Medium,472,318,300,1090,2022-04-19,BBB,High, Average
+vno,Vornado Realty Trust,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,540,326,325,1191,2022-04-19,BBB,High, Leader
+vlo,Valero Energy Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,AA,Excellent,BB,Medium,BB,Medium,608,307,330,1245,2022-04-19,A,High, Leader
+vfc,VF Corp,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,A,High,BB,Medium,BB,Medium,505,301,300,1106,2022-04-19,BBB,High, Leader
+v,Visa Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,504,368,310,1182,2022-04-19,BBB,High, Leader
+vtr,Ventas Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+vmc,Vulcan Materials Co,"NEW YORK STOCK EXCHANGE, INC.",Construction,A,High,BB,Medium,BB,Medium,570,319,300,1189,2022-04-19,BBB,High, Leader
+wec,WEC Energy Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BBB,High,BB,Medium,635,438,300,1373,2022-04-19,A,High, Leader
+well,Welltower OP LLC,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,BBB,High,BB,Medium,BB,Medium,437,326,300,1063,2022-04-21,BBB,High, Average
+wat,Waters Corp,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,B,Medium,B,Medium,B,Medium,270,292,235,797,2022-04-19,BB,Medium,Laggard
+wm,Waste Management Inc,"NEW YORK STOCK EXCHANGE, INC.",Commercial Services and Supplies,AA,Excellent,BBB,High,B,Medium,613,408,285,1306,2022-04-19,A,High, Leader
+wab,Westinghouse Air Brake Technologies Corp,"NEW YORK STOCK EXCHANGE, INC.",Machinery,AA,Excellent,BB,Medium,BB,Medium,607,311,320,1238,2022-04-19,A,High, Leader
+wmb,Williams Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-20,BBB,High, Leader
+wfc,Wells Fargo & Co,"NEW YORK STOCK EXCHANGE, INC.",Banking,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+whr,Whirlpool Corp,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BB,Medium,BB,Medium,500,301,300,1101,2022-04-20,BBB,High, Leader
+wst,West Pharmaceutical Services Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,540,330,305,1175,2022-04-20,BBB,High, Leader
+wrb,W R Berkley Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,BB,Medium,B,Medium,BB,Medium,360,294,300,954,2022-04-19,BBB,High, Average
+wmt,Walmart Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,BB,Medium,B,Medium,B,Medium,310,281,220,811,2022-04-19,BB,Medium, Average
+wu,Western Union Co,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,B,Medium,B,Medium,205,205,228,638,2022-04-20,B,Medium,Laggard
+yum,Yum! Brands Inc,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,500,320,310,1130,2022-04-20,BBB,High, Leader
+xyl,Xylem Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,BB,Medium,B,Medium,B,Medium,374,254,210,838,2022-04-20,BB,Medium, Average
+wy,Weyerhaeuser Co,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,AA,Excellent,BB,Medium,BB,Medium,700,340,300,1340,2022-04-20,A,High, Leader
+wrk,Westrock Co,"NEW YORK STOCK EXCHANGE, INC.",Packaging,A,High,BB,Medium,BB,Medium,555,324,305,1184,2022-04-20,BBB,High, Leader
+xom,Exxon Mobil Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,538,322,313,1173,2022-04-17,BBB,High, Leader
+zbh,Zimmer Biomet Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,520,330,310,1160,2022-04-20,BBB,High, Leader
+zts,Zoetis Inc,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,520,348,310,1178,2022-04-20,BBB,High, Leader
+de,Deere & Co,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,BB,Medium,560,339,305,1204,2022-04-17,A,High, Leader
+dd,Dupont De Nemours Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,B,Medium,550,341,295,1186,2022-04-17,BBB,High, Leader
+d,Dominion Energy Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,535,325,310,1170,2022-04-17,BBB,High, Leader
+cvs,CVS Health Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,540,302,315,1157,2022-04-17,BBB,High, Leader
+dal,Delta Air Lines Inc,"NEW YORK STOCK EXCHANGE, INC.",Airlines,A,High,BB,Medium,BB,Medium,515,300,313,1128,2022-04-17,BBB,High, Leader
+crm,Salesforce Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,B,Medium,B,Medium,215,241,200,656,2022-04-19,B,Medium,Laggard
+cvx,Chevron Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,B,Medium,B,Medium,B,Medium,210,217,210,637,2022-04-22,B,Medium,Laggard
+ctva,Corteva Inc,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,AA,Excellent,BB,Medium,BB,Medium,610,312,320,1242,2022-06-10,A,High, Leader
+ctra,Coterra Energy Inc,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,555,329,310,1194,2022-06-11,BBB,High, Leader
+ctlt,Catalent Inc,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,BBB,High,BB,Medium,BB,Medium,483,303,305,1091,2022-04-16,BBB,High, Average
+cpb,Campbell Soup Co,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,515,301,305,1121,2022-04-16,BBB,High, Leader
+crl,Charles River Laboratories International Inc,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,510,322,235,1067,2022-04-16,BBB,High, Average
+cop,Conocophillips,"NEW YORK STOCK EXCHANGE, INC.",Energy,AA,Excellent,A,High,BB,Medium,687,544,305,1536,2022-04-16,A,High, Leader
+coo,Cooper Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-16,BBB,High, Leader
+cof,Capital One Financial Corp,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,A,High,BB,Medium,BB,Medium,508,309,320,1137,2022-04-16,BBB,High, Leader
+cnc,Centene Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,548,355,315,1218,2022-04-16,A,High, Leader
+cnp,CenterPoint Energy Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,B,Medium,550,320,260,1130,2022-04-16,BBB,High, Leader
+cms,CMS Energy Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,BBB,High,AA,Excellent,C,Low,450,667,75,1192,2022-04-16,BBB,High, Leader
+cmi,Cummins Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,BB,Medium,510,320,300,1130,2022-04-17,BBB,High, Leader
+cl,Colgate-Palmolive Co,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BB,Medium,BB,Medium,520,310,310,1140,2022-04-16,BBB,High, Leader
+mmm,3M Co,"NEW YORK STOCK EXCHANGE, INC.",Industrial Conglomerates,A,High,BB,Medium,BB,Medium,526,310,305,1141,2022-04-16,BBB,High, Leader
+cfg,Citizens Financial Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Banking,B,Medium,B,Medium,B,Medium,230,215,205,650,2022-04-16,B,Medium,Laggard
+cag,Conagra Brands Inc,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,525,306,300,1131,2022-04-16,BBB,High, Leader
+ci,Cigna Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,508,328,310,1146,2022-04-16,BBB,High, Leader
+cah,Cardinal Health Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,505,300,315,1120,2022-04-16,BBB,High, Leader
+ma,Mastercard Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,B,Medium,B,Medium,210,230,215,655,2022-04-18,B,Medium,Laggard
+lw,Lamb Weston Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Food Products,BB,Medium,B,Medium,BB,Medium,345,256,300,901,2022-06-10,BBB,High, Average
+maa,Mid-America Apartment Communities Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,BB,Medium,B,Medium,B,Medium,315,261,210,786,2022-04-18,BB,Medium,Laggard
+mlm,Martin Marietta Materials Inc,"NEW YORK STOCK EXCHANGE, INC.",Construction,A,High,BB,Medium,BB,Medium,573,313,300,1186,2022-04-18,BBB,High, Leader
+luv,Southwest Airlines Co,"NEW YORK STOCK EXCHANGE, INC.",Airlines,B,Medium,BB,Medium,B,Medium,295,314,218,827,2022-04-19,BB,Medium, Average
+lnc,Lincoln National Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,AA,Excellent,BB,Medium,BB,Medium,700,300,300,1300,2022-04-18,A,High, Leader
+len,Lennar Corp,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,BB,Medium,BB,Medium,B,Medium,363,344,220,927,2022-04-18,BBB,High, Average
+pg,Procter & Gamble Co,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BBB,High,BB,Medium,560,422,310,1292,2022-04-18,A,High, Leader
+ogn,Organon & Co,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,515,335,305,1155,2022-06-11,BBB,High, Leader
+oxy,Occidental Petroleum Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,505,302,300,1107,2022-04-18,BBB,High, Leader
+dell,Dell Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,B,Medium,500,318,275,1093,2022-06-10,BBB,High, Average
+payc,Paycom Software Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,BBB,High,BB,Medium,BB,Medium,470,305,315,1090,2022-04-18,BBB,High, Average
+peg,Public Service Enterprise Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,B,Medium,500,300,205,1005,2022-04-19,BBB,High, Average
+oke,ONEOK Inc,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,581,326,355,1262,2022-04-18,A,High, Leader
+nrg,NRG Energy Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,BB,Medium,BB,Medium,B,Medium,371,327,218,916,2022-04-18,BBB,High, Average
+l,Loews Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,505,303,313,1121,2022-04-18,BBB,High, Leader
+omc,Omnicom Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Media,A,High,BB,Medium,BB,Medium,543,333,305,1181,2022-04-18,BBB,High, Leader
+orcl,Oracle Corp,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,2022-09-17,BBB,High, Average
+o,Realty Income Corp,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-19,BBB,High, Leader
+dpz,Domino's Pizza Inc,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,205,205,200,610,2022-04-17,B,Medium,Laggard
+t,AT&T Inc,"NEW YORK STOCK EXCHANGE, INC.",Telecommunication,B,Medium,B,Medium,BB,Medium,210,200,305,715,2022-04-16,B,Medium,Laggard
+unp,Union Pacific Corp,"NEW YORK STOCK EXCHANGE, INC.",Road and Rail,B,Medium,B,Medium,B,Medium,290,257,245,792,2022-04-19,BB,Medium,Laggard
+nem,Newmont Corporation,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,AA,Excellent,BB,Medium,BB,Medium,675,389,355,1419,2022-04-18,A,High, Leader
+fdx,FedEx Corp,"NEW YORK STOCK EXCHANGE, INC.",Logistics and Transportation,BB,Medium,B,Medium,B,Medium,335,278,255,868,2022-04-17,BB,Medium, Average
+nke,Nike Inc,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,B,Medium,B,Medium,B,Medium,205,275,200,680,2022-04-18,B,Medium,Laggard
+f,Ford Motor Co,"NEW YORK STOCK EXCHANGE, INC.",Automobiles,B,Medium,B,Medium,B,Medium,292,246,215,753,2022-04-17,BB,Medium,Laggard
+lmt,Lockheed Martin Corp,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,510,324,320,1154,2022-04-18,BBB,High, Leader
+rsg,Republic Services Inc,"NEW YORK STOCK EXCHANGE, INC.",Commercial Services and Supplies,B,Medium,B,Medium,B,Medium,293,235,216,744,2022-04-19,B,Medium,Laggard
+enph,Enphase Energy Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,565,316,300,1181,2022-04-17,BBB,High, Leader
+exc,Exelon Corp,NASDAQ NMS - GLOBAL MARKET,Utilities,AA,Excellent,BBB,High,BB,Medium,694,403,316,1413,2022-04-17,A,High, Leader
+expd,Expeditors International of Washington Inc,NASDAQ NMS - GLOBAL MARKET,Logistics and Transportation,A,High,BB,Medium,BB,Medium,510,302,300,1112,2022-04-17,BBB,High, Leader
+expe,Expedia Group Inc,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,B,Medium,B,Medium,BB,Medium,225,242,305,772,2022-04-17,BB,Medium,Laggard
+fast,Fastenal Co,NASDAQ NMS - GLOBAL MARKET,Trading Companies and Distributors,B,Medium,BB,Medium,B,Medium,230,302,200,732,2022-04-17,B,Medium,Laggard
+ffiv,F5 Inc,NASDAQ NMS - GLOBAL MARKET,Communications,B,Medium,B,Medium,B,Medium,200,221,215,636,2022-04-17,B,Medium,Laggard
+fisv,Fiserv Inc,NASDAQ NMS - GLOBAL MARKET,Technology,BB,Medium,BB,Medium,BB,Medium,395,302,310,1007,2022-04-17,BBB,High, Average
+eqix,Equinix Inc,NASDAQ NMS - GLOBAL MARKET,Real Estate,A,High,BB,Medium,BB,Medium,515,323,315,1153,2022-04-17,BBB,High, Leader
+ftnt,Fortinet Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,500,306,305,1111,2022-04-17,BBB,High, Leader
+etsy,ETSY Inc,NASDAQ NMS - GLOBAL MARKET,Retail,B,Medium,B,Medium,B,Medium,235,241,235,711,2022-04-17,B,Medium,Laggard
+ben,Franklin Resources Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,BB,Medium,BB,Medium,BB,Medium,321,349,310,980,2022-04-17,BBB,High, Average
+dlr,Digital Realty Trust Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,540,317,300,1157,2022-04-17,BBB,High, Leader
+dhr,Danaher Corp,"NEW YORK STOCK EXCHANGE, INC.",Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,530,344,385,1259,2022-04-17,A,High, Leader
+efx,Equifax Inc,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,BB,Medium,BB,Medium,BB,Medium,390,300,305,995,2022-06-10,BBB,High, Average
+el,Estee Lauder Companies Inc,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-04-17,BBB,High, Leader
+emn,Eastman Chemical Co,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,583,365,310,1258,2022-04-17,A,High, Leader
+emr,Emerson Electric Co,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,AA,Excellent,BB,Medium,BB,Medium,605,323,315,1243,2022-04-17,A,High, Leader
+eog,EOG Resources Inc,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,B,Medium,B,Medium,550,252,240,1042,2022-04-17,BBB,High, Average
+eqr,Equity Residential,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,B,Medium,235,208,210,653,2022-04-17,B,Medium,Laggard
+es,Eversource Energy,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BBB,High,BB,Medium,576,409,310,1295,2022-04-17,A,High, Leader
+ess,Essex Property Trust Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,BB,Medium,BB,Medium,B,Medium,377,304,210,891,2022-04-17,BB,Medium, Average
+fitb,Fifth Third Bancorp,NASDAQ NMS - GLOBAL MARKET,Banking,BB,Medium,BB,Medium,B,Medium,313,300,215,828,2022-04-17,BB,Medium, Average
+etr,Entergy Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,AA,Excellent,BB,Medium,BB,Medium,653,380,310,1343,2022-04-17,A,High, Leader
+exr,Extra Space Storage Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,B,Medium,B,Medium,572,289,225,1086,2022-04-17,BBB,High, Average
+ew,Edwards Lifesciences Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,B,Medium,BB,Medium,BB,Medium,290,333,305,928,2022-04-17,BBB,High, Average
+foxa,Fox Corp,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,BB,Medium,295,330,315,940,2022-04-16,BBB,High, Average
+fcx,Freeport-McMoRan Inc,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,AA,Excellent,BB,Medium,BB,Medium,608,313,305,1226,2022-04-17,A,High, Leader
+fe,FirstEnergy Corp,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,510,304,300,1114,2022-04-17,BBB,High, Leader
+flt,Fleetcor Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,BBB,High,BB,Medium,BB,Medium,410,302,300,1012,2022-04-17,BBB,High, Average
+fis,Fidelity National Information Services Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,B,Medium,BB,Medium,530,298,310,1138,2022-04-17,BBB,High, Leader
+frc,First Republic Bank,"NEW YORK STOCK EXCHANGE, INC.",Banking,BB,Medium,BB,Medium,B,Medium,370,331,288,989,2022-04-17,BBB,High, Average
+fmc,FMC Corp,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,510,307,315,1132,2022-04-17,BBB,High, Leader
+frt,Federal Realty Investment Trust,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,525,302,300,1127,2022-04-17,BBB,High, Leader
+ftv,Fortive Corp,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,BB,Medium,540,326,305,1171,2022-04-17,BBB,High, Leader
+gps,Gap Inc,"NEW YORK STOCK EXCHANGE, INC.",Retail,A,High,BB,Medium,BB,Medium,515,349,300,1164,2022-04-17,BBB,High, Leader
+grmn,Garmin Ltd,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,B,Medium,B,Medium,B,Medium,205,242,200,647,2022-04-17,B,Medium,Laggard
+it,Gartner Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,500,316,315,1131,2022-04-17,BBB,High, Leader
+lly,Eli Lilly and Co,"NEW YORK STOCK EXCHANGE, INC.",Pharmaceuticals,A,High,BB,Medium,BB,Medium,510,360,310,1180,2022-04-17,BBB,High, Leader
+re,Everest Re Group Ltd,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,B,Medium,BB,Medium,505,276,305,1086,2022-04-17,BBB,High, Average
+evrg,Evergy Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,555,310,300,1165,2022-06-10,BBB,High, Leader
+fbhs,Fortune Brands Home & Security Inc,"NEW YORK STOCK EXCHANGE, INC.",Building,A,High,BB,Medium,BB,Medium,510,302,300,1112,2022-04-17,BBB,High, Leader
+gild,Gilead Sciences Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,500,303,300,1103,2022-04-17,BBB,High, Leader
+holx,Hologic Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,A,High,BB,Medium,BB,Medium,515,324,315,1154,2022-04-17,BBB,High, Leader
+hsic,Henry Schein Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,210,205,200,615,2022-04-17,B,Medium,Laggard
+hon,Honeywell International Inc,NASDAQ NMS - GLOBAL MARKET,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,545,344,308,1197,2022-04-17,BBB,High, Leader
+hst,Host Hotels & Resorts Inc,NASDAQ NMS - GLOBAL MARKET,Real Estate,A,High,BB,Medium,BB,Medium,510,318,318,1146,2022-04-17,BBB,High, Leader
+gd,General Dynamics Corp,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,510,310,300,1120,2022-06-11,BBB,High, Leader
+has,Hasbro Inc,NASDAQ NMS - GLOBAL MARKET,Leisure Products,B,Medium,BB,Medium,BB,Medium,255,301,300,856,2022-04-17,BB,Medium, Average
+hban,Huntington Bancshares Inc,NASDAQ NMS - GLOBAL MARKET,Banking,BB,Medium,BB,Medium,BB,Medium,308,300,300,908,2022-04-17,BBB,High, Average
+gl,Globe Life Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,B,Medium,B,Medium,B,Medium,215,238,215,668,2022-06-07,B,Medium,Laggard
+gpc,Genuine Parts Co,"NEW YORK STOCK EXCHANGE, INC.",Distributors,A,High,B,Medium,BB,Medium,535,225,305,1065,2022-04-17,BBB,High, Average
+gnrc,Generac Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,A,High,BB,Medium,B,Medium,535,311,250,1096,2022-04-17,BBB,High, Average
+gpn,Global Payments Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,BB,Medium,BB,Medium,B,Medium,310,343,265,918,2022-04-17,BBB,High, Average
+hca,HCA Healthcare Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,A,High,BB,Medium,BB,Medium,520,348,305,1173,2022-04-17,BBB,High, Leader
+hbi,HanesBrands Inc,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,BB,Medium,B,Medium,BB,Medium,310,223,305,838,2022-04-17,BB,Medium, Average
+hii,Huntington Ingalls Industries Inc,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,545,315,315,1175,2022-04-17,BBB,High, Leader
+hpe,Hewlett Packard Enterprise Co,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,BB,Medium,B,Medium,230,359,230,819,2022-04-17,BB,Medium, Average
+hes,Hess Corp,"NEW YORK STOCK EXCHANGE, INC.",Energy,A,High,BB,Medium,BB,Medium,535,300,305,1140,2022-04-17,BBB,High, Leader
+hlt,Hilton Worldwide Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,293,200,205,698,2022-04-17,B,Medium,Laggard
+hrl,Hormel Foods Corp,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,570,322,300,1192,2022-04-17,BBB,High, Leader
+hpq,HP Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,B,Medium,B,Medium,245,211,200,656,2022-04-17,B,Medium,Laggard
+hum,Humana Inc,"NEW YORK STOCK EXCHANGE, INC.",Health Care,BBB,High,BB,Medium,BB,Medium,462,300,300,1062,2022-04-17,BBB,High, Average
+hwm,Howmet Aerospace Inc,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,525,315,320,1160,2022-06-10,BBB,High, Leader
+peak,Healthpeak Properties Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,535,331,335,1201,2022-06-11,A,High, Leader
+gis,General Mills Inc,"NEW YORK STOCK EXCHANGE, INC.",Food Products,A,High,BB,Medium,BB,Medium,585,326,365,1276,2022-04-17,A,High, Leader
+ge,General Electric Co,"NEW YORK STOCK EXCHANGE, INC.",Industrial Conglomerates,A,High,BB,Medium,BB,Medium,533,300,300,1133,2022-06-10,BBB,High, Leader
+spot,Spotify Technology SA,"NEW YORK STOCK EXCHANGE, INC.",Media,A,High,B,Medium,B,Medium,500,283,255,1038,2022-04-22,BBB,High, Average
+trtn,Triton International Ltd,"NEW YORK STOCK EXCHANGE, INC.",Trading Companies and Distributors,BBB,High,BB,Medium,BB,Medium,477,306,300,1083,2022-04-19,BBB,High, Average
+trtx,TPG RE Finance Trust Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,BB,Medium,230,239,300,769,2022-06-11,BB,Medium,Laggard
+tru,TransUnion,"NEW YORK STOCK EXCHANGE, INC.",Professional Services,A,High,BB,Medium,BB,Medium,510,313,310,1133,2022-04-19,BBB,High, Leader
+yeti,Yeti Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Leisure Products,B,Medium,B,Medium,BB,Medium,269,253,305,827,2022-06-11,BB,Medium, Average
+yelp,Yelp Inc,"NEW YORK STOCK EXCHANGE, INC.",Media,B,Medium,A,High,B,Medium,245,515,213,973,2022-04-20,BBB,High, Average
+yext,Yext Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,BB,Medium,BB,Medium,BB,Medium,325,314,310,949,2022-06-11,BBB,High, Average
+spr,Spirit AeroSystems Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Aerospace and Defense,A,High,BB,Medium,BB,Medium,515,337,300,1152,2022-04-19,BBB,High, Leader
+ysg,Yatsen Holding Ltd,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,BB,Medium,B,Medium,BB,Medium,355,217,325,897,2022-06-11,BB,Medium, Average
+yrd,Yiren Digital Ltd,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,B,Medium,B,Medium,B,Medium,200,205,205,610,2022-04-20,B,Medium,Laggard
+yumc,Yum China Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,205,217,220,642,2022-06-11,B,Medium,Laggard
+trox,Tronox Holdings PLC,"NEW YORK STOCK EXCHANGE, INC.",Chemicals,A,High,BB,Medium,BB,Medium,503,320,300,1123,2022-04-19,BBB,High, Leader
+zepp,Zepp Health Corp,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,B,Medium,B,Medium,B,Medium,202,210,295,707,2022-06-11,B,Medium,Laggard
+zev,Lightning eMotors Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,A,High,BB,Medium,B,Medium,535,391,240,1166,2022-06-11,BBB,High, Leader
+zuo,Zuora Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,B,Medium,B,Medium,240,234,200,674,2022-09-24,B,Medium,Laggard
+zim,ZIM Integrated Shipping Services Ltd,"NEW YORK STOCK EXCHANGE, INC.",Marine,BB,Medium,BB,Medium,BB,Medium,329,351,320,1000,2022-04-20,BBB,High, Average
+zyme,Zymeworks Inc,"NEW YORK STOCK EXCHANGE, INC.",Biotechnology,B,Medium,BB,Medium,BB,Medium,240,326,305,871,2022-06-11,BB,Medium, Average
+zws,Zurn Elkay Water Solutions Corp,"NEW YORK STOCK EXCHANGE, INC.",Building,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-06-11,BBB,High, Leader
+you,Clear Secure Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,B,Medium,B,Medium,515,278,205,998,2022-04-21,BBB,High, Average
+zen,Zendesk Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,515,338,320,1173,2022-04-20,BBB,High, Leader
+plxs,Plexus Corp,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,A,High,BB,Medium,BB,Medium,510,300,300,1110,2022-04-18,BBB,High, Leader
+ship,Seanergy Maritime Holdings Corp,NASDAQ NMS - GLOBAL MARKET,Marine,BB,Medium,BB,Medium,BB,Medium,345,300,305,950,2022-04-19,BBB,High, Average
+shls,Shoals Technologies Group Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,B,Medium,BB,Medium,285,280,300,865,2022-06-10,BB,Medium, Average
+shoo,Steven Madden Ltd,NASDAQ NMS - GLOBAL MARKET,Textiles Apparel and Luxury Goods,A,High,B,Medium,BB,Medium,508,231,300,1039,2022-04-19,BBB,High, Average
+shyf,Shyft Group Inc,NASDAQ NMS - GLOBAL MARKET,Machinery,A,High,BB,Medium,B,Medium,510,303,275,1088,2022-06-10,BBB,High, Average
+sibn,SI-BONE Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,220,228,210,658,2022-06-10,B,Medium,Laggard
+sieb,Siebert Financial Corp,NASDAQ NMS - GLOBAL MARKET,Financial Services,BB,Medium,B,Medium,B,Medium,300,299,235,834,2022-04-19,BB,Medium, Average
+plya,Playa Hotels & Resorts NV,NASDAQ NMS - GLOBAL MARKET,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,210,200,205,615,2022-06-10,B,Medium,Laggard
+wwe,World Wrestling Entertainment Inc,"NEW YORK STOCK EXCHANGE, INC.",Media,B,Medium,BB,Medium,BB,Medium,275,332,315,922,2022-04-20,BBB,High, Average
+pmcb,PharmaCyte Biotech Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,220,202,300,722,2022-04-18,B,Medium,Laggard
+www,Wolverine World Wide Inc,"NEW YORK STOCK EXCHANGE, INC.",Textiles Apparel and Luxury Goods,BB,Medium,B,Medium,BB,Medium,390,298,308,996,2022-04-20,BBB,High, Average
+xhr,Xenia Hotels & Resorts Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,B,Medium,260,263,236,759,2022-04-20,BB,Medium,Laggard
+x,United States Steel Corp,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,A,High,BB,Medium,BB,Medium,535,364,300,1199,2022-04-19,BBB,High, Leader
+xpev,Xpeng Inc,"NEW YORK STOCK EXCHANGE, INC.",Automobiles,B,Medium,B,Medium,B,Medium,215,208,200,623,2022-06-11,B,Medium,Laggard
+xpo,XPO Logistics Inc,"NEW YORK STOCK EXCHANGE, INC.",Road and Rail,A,High,BB,Medium,BB,Medium,560,318,300,1178,2022-04-20,BBB,High, Leader
+xin,Xinyuan Real Estate Co Ltd,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,B,Medium,B,Medium,BB,Medium,205,242,300,747,2022-04-20,B,Medium,Laggard
+xl,XL Fleet Corp,"NEW YORK STOCK EXCHANGE, INC.",Auto Components,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-04-22,B,Medium,Laggard
+xyf,X Financial,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,B,Medium,B,Medium,B,Medium,215,205,200,620,2022-06-11,B,Medium,Laggard
+y,Alleghany Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,B,Medium,B,Medium,BB,Medium,215,240,300,755,2022-04-16,BB,Medium,Laggard
+yala,Yalla Group Ltd,"NEW YORK STOCK EXCHANGE, INC.",Media,B,Medium,B,Medium,B,Medium,233,244,220,697,2022-06-11,B,Medium,Laggard
+wts,Watts Water Technologies Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,BBB,High,BB,Medium,B,Medium,420,303,210,933,2022-04-19,BBB,High, Average
+sien,Sientra Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,BB,Medium,B,Medium,219,308,236,763,2022-04-19,BB,Medium,Laggard
+hain,Hain Celestial Group Inc,NASDAQ NMS - GLOBAL MARKET,Food Products,A,High,BB,Medium,BB,Medium,520,302,305,1127,2022-04-17,BBB,High, Leader
+mtc,MMTEC Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,B,Medium,BB,Medium,221,225,305,751,2022-04-20,BB,Medium,Laggard
+mtcr,Metacrine Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,210,207,330,747,2022-06-10,B,Medium,Laggard
+mtem,Molecular Templates Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,BB,Medium,BB,Medium,360,325,320,1005,2022-06-10,BBB,High, Average
+mtls,Materialise NV,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,505,301,300,1106,2022-04-18,BBB,High, Leader
+mtex,Mannatech Inc,NASDAQ NMS - GLOBAL MARKET,Consumer products,B,Medium,B,Medium,B,Medium,200,260,230,690,2022-04-18,B,Medium,Laggard
+mtrx,Matrix Service Co,NASDAQ NMS - GLOBAL MARKET,Construction,A,High,BB,Medium,B,Medium,589,390,277,1256,2022-04-18,A,High, Leader
+halo,Halozyme Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,510,302,315,1127,2022-04-17,BBB,High, Leader
+hall,Hallmark Financial Services Inc,NASDAQ NMS - GLOBAL MARKET,Insurance,B,Medium,B,Medium,BB,Medium,215,233,300,748,2022-04-17,B,Medium,Laggard
+mvbf,MVB Financial Corp,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,B,Medium,B,Medium,210,215,215,640,2022-04-18,B,Medium,Laggard
+mvst,Microvast Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Machinery,B,Medium,B,Medium,B,Medium,225,282,210,717,2022-06-11,B,Medium,Laggard
+mvis,MicroVision Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,BBB,High,BB,Medium,BB,Medium,451,300,330,1081,2022-04-18,BBB,High, Average
+mxct,MaxCyte Inc,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,B,Medium,BB,Medium,B,Medium,220,300,248,768,2022-04-21,BB,Medium,Laggard
+mygn,Myriad Genetics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,BB,Medium,B,Medium,353,321,294,968,2022-04-18,BBB,High, Average
+myfw,First Western Financial Inc,NASDAQ NMS - GLOBAL MARKET,Banking,BB,Medium,BB,Medium,B,Medium,351,300,235,886,2022-06-10,BB,Medium, Average
+mxl,Maxlinear Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,535,325,335,1195,2022-04-18,BBB,High, Leader
+mymd,MyMD Pharmaceuticals Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,205,257,230,692,2022-06-11,B,Medium,Laggard
+myps,Playstudios Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,B,Medium,B,Medium,205,202,200,607,2022-06-11,B,Medium,Laggard
+mttr,Matterport Inc,NASDAQ NMS - GLOBAL MARKET,Technology,BB,Medium,BB,Medium,B,Medium,346,325,260,931,2022-06-11,BBB,High, Average
+mtsi,MACOM Technology Solutions Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,BB,Medium,BB,Medium,B,Medium,377,309,255,941,2022-04-18,BBB,High, Average
+clro,Clearone Inc,NASDAQ NMS - GLOBAL MARKET,Communications,BB,Medium,B,Medium,B,Medium,370,228,210,808,2022-04-16,BB,Medium, Average
+clsn,Celsion Corp,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,255,214,300,769,2022-04-16,BB,Medium,Laggard
+gure,Gulf Resources Inc,NASDAQ NMS - GLOBAL MARKET,Chemicals,BBB,High,B,Medium,BB,Medium,408,206,300,914,2022-04-17,BBB,High, Average
+gvp,GSE Systems Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,B,Medium,505,307,245,1057,2022-04-17,BBB,High, Average
+gyro,Gyrodyne LLC,NASDAQ NMS - GLOBAL MARKET,Real Estate,B,Medium,B,Medium,B,Medium,240,206,240,686,2022-04-17,B,Medium,Laggard
+gwrs,Global Water Resources Inc,NASDAQ NMS - GLOBAL MARKET,Utilities,BB,Medium,B,Medium,B,Medium,367,297,235,899,2022-04-17,BB,Medium, Average
+ha,Hawaiian Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Airlines,B,Medium,BB,Medium,B,Medium,200,321,200,721,2022-04-17,B,Medium,Laggard
+clsk,CleanSpark Inc,NASDAQ NMS - GLOBAL MARKET,Technology,A,High,BB,Medium,BB,Medium,570,326,310,1206,2022-06-10,A,High, Leader
+clsd,Clearside Biomedical Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,215,230,200,645,2022-07-26,B,Medium,Laggard
+haac,Health Assurance Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,BB,Medium,200,258,300,758,2022-06-10,BB,Medium,Laggard
+hafc,Hanmi Financial Corp,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,B,Medium,B,Medium,250,207,233,690,2022-04-17,B,Medium,Laggard
+clst,Catalyst Bancorp Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,BB,Medium,B,Medium,260,350,267,877,2022-06-11,BB,Medium, Average
+clwt,Euro Tech Holdings Company Ltd,NASDAQ NMS - GLOBAL MARKET,Trading Companies and Distributors,B,Medium,B,Medium,B,Medium,230,201,210,641,2022-04-17,B,Medium,Laggard
+clxt,Calyxt Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,A,High,BB,Medium,BB,Medium,535,322,325,1182,2022-06-10,BBB,High, Leader
+cmbm,Cambium Networks Corp,NASDAQ NMS - GLOBAL MARKET,Communications,A,High,BB,Medium,BB,Medium,505,337,300,1142,2022-06-10,BBB,High, Leader
+cmco,Columbus McKinnon Corp,NASDAQ NMS - GLOBAL MARKET,Machinery,B,Medium,BB,Medium,B,Medium,200,323,240,763,2022-04-16,BB,Medium,Laggard
+evk,Ever-Glory International Group Inc,NASDAQ NMS - GLOBAL MARKET,Textiles Apparel and Luxury Goods,B,Medium,B,Medium,B,Medium,200,211,210,621,2022-04-17,B,Medium,Laggard
+clvs,Clovis Oncology Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,225,212,300,737,2022-04-16,B,Medium,Laggard
+clvr,Clever Leaves Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Pharmaceuticals,B,Medium,B,Medium,B,Medium,225,243,205,673,2022-06-10,B,Medium,Laggard
+happ,Happiness Development Group Ltd,NASDAQ NMS - GLOBAL MARKET,Consumer products,B,Medium,B,Medium,BB,Medium,225,207,300,732,2022-06-10,B,Medium,Laggard
+hbcp,Home Bancorp Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,B,Medium,B,Medium,B,Medium,230,202,200,632,2022-04-17,B,Medium,Laggard
+hbio,Harvard Bioscience Inc,NASDAQ NMS - GLOBAL MARKET,Life Sciences Tools and Services,B,Medium,B,Medium,BB,Medium,250,221,300,771,2022-04-17,BB,Medium,Laggard
+hbnc,Horizon Bancorp Inc,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,BB,Medium,B,Medium,255,321,233,809,2022-04-17,BB,Medium, Average
+hbt,HBT Financial Inc,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,B,Medium,BB,Medium,245,275,300,820,2022-06-10,BB,Medium, Average
+hcat,Health Catalyst Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,A,High,BB,Medium,BB,Medium,545,324,320,1189,2022-06-10,BBB,High, Leader
+hcar,Healthcare Services Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,BB,Medium,245,205,300,750,2022-06-10,BB,Medium,Laggard
+harp,Harpoon Therapeutics Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BBB,High,BB,Medium,BB,Medium,485,300,310,1095,2022-06-10,BBB,High, Average
+hayn,Haynes International Inc,NASDAQ NMS - GLOBAL MARKET,Metals and Mining,A,High,BB,Medium,BB,Medium,500,301,300,1101,2022-04-17,BBB,High, Leader
+pnbk,Patriot National Bancorp Inc,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,BB,Medium,B,Medium,205,302,210,717,2022-04-18,B,Medium,Laggard
+hcdi,Harbor Custom Development Inc,NASDAQ NMS - GLOBAL MARKET,Consumer products,B,Medium,B,Medium,B,Medium,222,221,208,651,2022-06-10,B,Medium,Laggard
+hcci,Heritage-Crystal Clean Inc,NASDAQ NMS - GLOBAL MARKET,Commercial Services and Supplies,A,High,BBB,High,BB,Medium,525,400,300,1225,2022-04-17,A,High, Leader
+pnfp,Pinnacle Financial Partners Inc,NASDAQ NMS - GLOBAL MARKET,Banking,B,Medium,BB,Medium,B,Medium,271,328,250,849,2022-11-08,BB,Medium, Average
+pnt,POINT Biopharma Global Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,BB,Medium,B,Medium,B,Medium,320,221,285,826,2022-06-11,BB,Medium, Average
+poai,Predictive Oncology Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,278,297,220,795,2022-06-10,BB,Medium,Laggard
+pola,Polar Power Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-06-05,B,Medium,Laggard
+podd,Insulet Corp,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,215,233,205,653,2022-11-07,B,Medium,Laggard
+powi,Power Integrations Inc,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,B,Medium,BB,Medium,575,285,305,1165,2022-11-08,BBB,High, Leader
+poww,Ammo Inc,NASDAQ NMS - GLOBAL MARKET,Leisure Products,B,Medium,B,Medium,B,Medium,233,224,200,657,2022-08-02,B,Medium,Laggard
+pnrg,Primeenergy Resources Corp,NASDAQ NMS - GLOBAL MARKET,Energy,B,Medium,B,Medium,B,Medium,200,200,260,660,2022-11-08,B,Medium,Laggard
+pntg,Pennant Group Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,BB,Medium,B,Medium,245,306,200,751,2022-06-10,BB,Medium,Laggard
+ppbi,Pacific Premier Bancorp Inc,NASDAQ NMS - GLOBAL MARKET,Banking,A,High,BB,Medium,BB,Medium,565,328,315,1208,2022-11-08,A,High, Leader
+ppih,Perma-Pipe International Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Machinery,A,High,B,Medium,BB,Medium,500,260,300,1060,2022-06-10,BBB,High, Average
+ppc,Pilgrims Pride Corp,NASDAQ NMS - GLOBAL MARKET,Food Products,A,High,BB,Medium,B,Medium,500,302,220,1022,2022-11-08,BBB,High, Average
+praa,PRA Group Inc,NASDAQ NMS - GLOBAL MARKET,Financial Services,BBB,High,BB,Medium,BB,Medium,473,321,310,1104,2022-11-08,BBB,High, Leader
+ppsi,Pioneer Power Solutions Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,BB,Medium,BB,Medium,299,305,315,919,2022-11-08,BBB,High, Average
+prax,Praxis Precision Medicines Inc,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,200,215,215,630,2022-06-10,B,Medium,Laggard
+prct,Procept Biorobotics Corp,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,BB,Medium,200,224,300,724,2022-06-11,B,Medium,Laggard
+prch,Porch Group Inc,NASDAQ NMS - GLOBAL MARKET,Retail,B,Medium,B,Medium,B,Medium,225,227,215,667,2022-06-10,B,Medium,Laggard
+pre,Artisan Acquisition Corp,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,B,Medium,245,203,265,713,2022-04-22,B,Medium,Laggard
+prdo,Perdoceo Education Corp,NASDAQ NMS - GLOBAL MARKET,Diversified Consumer Services,BB,Medium,B,Medium,B,Medium,365,297,250,912,2022-06-10,BBB,High, Average
+sisi,Shineco Inc,NASDAQ NMS - GLOBAL MARKET,Consumer products,BB,Medium,BB,Medium,BB,Medium,340,346,305,991,2022-06-11,BBB,High, Average
+sitm,SiTime Corp,NASDAQ NMS - GLOBAL MARKET,Semiconductors,A,High,BB,Medium,BB,Medium,505,304,300,1109,2022-06-10,BBB,High, Leader
+siri,Sirius XM Holdings Inc,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,B,Medium,240,302,205,747,2022-11-08,B,Medium,Laggard
+sj,Scienjoy Holding Corp,NASDAQ NMS - GLOBAL MARKET,Media,B,Medium,BB,Medium,B,Medium,260,320,240,820,2022-06-10,BB,Medium, Average
+pow,Powered Brands,NASDAQ NMS - GLOBAL MARKET,Unknown,B,Medium,B,Medium,B,Medium,235,231,250,716,2022-04-20,B,Medium,Laggard
+powl,Powell Industries Inc,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,A,High,B,Medium,B,Medium,500,240,215,955,2022-11-08,BBB,High, Average
+upwk,Upwork Inc,NASDAQ NMS - GLOBAL MARKET,Professional Services,B,Medium,B,Medium,B,Medium,275,264,278,817,2022-06-10,BB,Medium, Average
+usak,USA Truck Inc,NASDAQ NMS - GLOBAL MARKET,Road and Rail,A,High,BB,Medium,BB,Medium,532,311,303,1146,2022-11-08,BBB,High, Leader
+usau,US Gold Corp,NASDAQ NMS - GLOBAL MARKET,Metals and Mining,BBB,High,B,Medium,BB,Medium,400,240,300,940,2022-06-10,BBB,High, Average
+usap,Universal Stainless & Alloy Products Inc,NASDAQ NMS - GLOBAL MARKET,Metals and Mining,B,Medium,B,Medium,B,Medium,238,231,200,669,2022-11-08,B,Medium,Laggard
+useg,US Energy Corp,NASDAQ NMS - GLOBAL MARKET,Energy,BBB,High,B,Medium,BB,Medium,438,265,315,1018,2022-11-08,BBB,High, Average
+usio,Usio Inc,NASDAQ NMS - GLOBAL MARKET,Technology,B,Medium,B,Medium,B,Medium,285,245,240,770,2022-06-10,BB,Medium,Laggard
+uthr,United Therapeutics Corp,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,BB,Medium,233,259,300,792,2022-11-08,BB,Medium,Laggard
+urgn,Urogen Pharma Ltd,NASDAQ NMS - GLOBAL MARKET,Biotechnology,B,Medium,B,Medium,B,Medium,210,251,290,751,2022-06-10,BB,Medium,Laggard
+urbn,Urban Outfitters Inc,NASDAQ NMS - GLOBAL MARKET,Retail,BB,Medium,BB,Medium,BB,Medium,335,300,300,935,2022-11-08,BBB,High, Average
+utme,Utime Ltd,NASDAQ NMS - GLOBAL MARKET,Electrical Equipment,B,Medium,B,Medium,B,Medium,217,200,200,617,2022-06-10,B,Medium,Laggard
+utrs,Minerva Surgical Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,205,201,210,616,2022-06-11,B,Medium,Laggard
+utsi,UTStarcom Holdings Corp,NASDAQ NMS - GLOBAL MARKET,Communications,BB,Medium,BB,Medium,BB,Medium,340,310,365,1015,2022-11-08,BBB,High, Average
+uxin,Uxin Ltd,NASDAQ NMS - GLOBAL MARKET,Retail,B,Medium,B,Medium,B,Medium,203,202,225,630,2022-06-10,B,Medium,Laggard
+uvsp,Univest Financial Corp,NASDAQ NMS - GLOBAL MARKET,Banking,BB,Medium,BB,Medium,BB,Medium,331,322,305,958,2022-11-08,BBB,High, Average
+cmcm,Cheetah Mobile Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,B,Medium,B,Medium,B,Medium,205,214,215,634,2022-11-07,B,Medium,Laggard
+cmc,Commercial Metals Co,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,B,Medium,B,Medium,B,Medium,223,212,200,635,2022-11-07,B,Medium,Laggard
+uslm,United States Lime & Minerals Inc,NASDAQ NMS - GLOBAL MARKET,Construction,A,High,B,Medium,BB,Medium,500,233,300,1033,2022-11-08,BBB,High, Average
+utmd,Utah Medical Products Inc,NASDAQ NMS - GLOBAL MARKET,Health Care,B,Medium,B,Medium,B,Medium,240,236,250,726,2022-11-08,B,Medium,Laggard
+cmp,Compass Minerals International Inc,"NEW YORK STOCK EXCHANGE, INC.",Metals and Mining,A,High,BB,Medium,BB,Medium,505,302,320,1127,2022-11-07,BBB,High, Leader
+cnd,Concord Acquisition Corp,"NEW YORK STOCK EXCHANGE, INC.",Unknown,B,Medium,B,Medium,BB,Medium,205,257,300,762,2022-11-12,BB,Medium,Laggard
+cnf,CNFinance Holdings Ltd,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,B,Medium,B,Medium,B,Medium,200,200,220,620,2022-06-10,B,Medium,Laggard
+cnmd,Conmed Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,BBB,High,BB,Medium,B,Medium,441,300,270,1011,2022-11-07,BBB,High, Average
+cnk,Cinemark Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Media,BB,Medium,BB,Medium,BB,Medium,330,300,300,930,2022-11-07,BBB,High, Average
+cnne,Cannae Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Financial Services,B,Medium,B,Medium,B,Medium,215,203,203,621,2022-06-10,B,Medium,Laggard
+cno,CNO Financial Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,500,322,315,1137,2022-11-07,BBB,High, Leader
+cna,CNA Financial Corp,"NEW YORK STOCK EXCHANGE, INC.",Insurance,A,High,BB,Medium,BB,Medium,540,329,340,1209,2022-11-07,A,High, Leader
+cmre,Costamare Inc,"NEW YORK STOCK EXCHANGE, INC.",Marine,B,Medium,B,Medium,B,Medium,242,204,200,646,2022-11-07,B,Medium,Laggard
+gva,Granite Construction Inc,"NEW YORK STOCK EXCHANGE, INC.",Construction,B,Medium,B,Medium,B,Medium,200,200,200,600,2022-11-07,B,Medium,Laggard
+fn,Fabrinet,"NEW YORK STOCK EXCHANGE, INC.",Electrical Equipment,A,High,B,Medium,B,Medium,510,209,210,929,2022-11-07,BBB,High, Average
+h,Hyatt Hotels Corp,"NEW YORK STOCK EXCHANGE, INC.","Hotels, Restaurants & Leisure",B,Medium,B,Medium,B,Medium,235,209,205,649,2022-11-07,B,Medium,Laggard
+hasi,Hannon Armstrong Sustainable Infrastructure Capital Inc,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,AA,Excellent,BBB,High,BB,Medium,646,404,313,1363,2022-11-07,A,High, Leader
+hayw,Hayward Holdings Inc,"NEW YORK STOCK EXCHANGE, INC.",Building,A,High,BB,Medium,BB,Medium,535,305,300,1140,2022-11-15,BBB,High, Leader
+hbb,Hamilton Beach Brands Holding Co,"NEW YORK STOCK EXCHANGE, INC.",Consumer products,B,Medium,B,Medium,B,Medium,245,272,230,747,2022-11-15,B,Medium,Laggard
+hcc,Warrior Met Coal Inc,"NEW YORK STOCK EXCHANGE, INC.",Metals & Mining,B,Medium,B,Medium,B,Medium,215,200,200,615,2022-11-09,B,Medium,Laggard
+hci,Hci Group Inc,"NEW YORK STOCK EXCHANGE, INC.",Insurance,B,Medium,B,Medium,BB,Medium,205,260,300,765,2022-11-07,BB,Medium,Laggard
+he,Hawaiian Electric Industries Inc,"NEW YORK STOCK EXCHANGE, INC.",Utilities,A,High,BB,Medium,BB,Medium,585,348,310,1243,2022-11-07,A,High, Leader
+gwre,Guidewire Software Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,A,High,BB,Medium,BB,Medium,549,321,330,1200,2022-11-07,A,High, Leader
+hae,Haemonetics Corp,"NEW YORK STOCK EXCHANGE, INC.",Health Care,BBB,High,BB,Medium,BB,Medium,448,303,305,1056,2022-11-07,BBB,High, Average
+hep,Holly Energy Partners LP,"NEW YORK STOCK EXCHANGE, INC.",Energy ,A,High,B,Medium,B,Medium,511,225,215,951,2022-11-07,BBB,High, Average
+hgv,Hilton Grand Vacations Inc,"NEW YORK STOCK EXCHANGE, INC.","Hotels, Restaurants & Leisure",BB,Medium,B,Medium,B,Medium,305,288,250,843,2022-11-15,BB,Medium, Average
+hi,Hillenbrand Inc,"NEW YORK STOCK EXCHANGE, INC.",Machinery,BBB,High,BB,Medium,BB,Medium,489,349,300,1138,2022-11-07,BBB,High, Leader
+hhc,Howard Hughes Corp,"NEW YORK STOCK EXCHANGE, INC.",Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,2022-11-07,BBB,High, Leader
+hubs,HubSpot Inc,"NEW YORK STOCK EXCHANGE, INC.",Technology,BBB,High,BB,Medium,BB,Medium,480,329,320,1129,2022-11-07,BBB,High, Leader
+hesm,Hess Midstream LP,"NEW YORK STOCK EXCHANGE, INC.",Energy ,BB,Medium,B,Medium,B,Medium,307,257,255,819,2022-11-15,BB,Medium, Average
+hei,HEICO Corp,"NEW YORK STOCK EXCHANGE, INC.",Aerospace & Defense,B,Medium,B,Medium,B,Medium,225,203,205,633,2022-11-07,B,Medium,Laggard
