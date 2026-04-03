@@ -3,7 +3,7 @@
 ## 🚀 Live Application
 
 👉 **Try the live app:**
-https://esg-dashboard-dspkhymabquvp3mawnpxft.streamlit.app/chatbot
+https://esg-dashboard-dspkhymabquvp3mawnpxft.streamlit.app/
 
 ---
 
